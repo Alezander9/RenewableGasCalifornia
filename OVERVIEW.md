@@ -9,3 +9,7 @@ Welcome to the California Renewable Natural Gas (RNG) Industry Knowledge Base. T
 - [Carbon Credit Markets](carbon_credit_markets/OVERVIEW.md)
 - [Risks](risks/OVERVIEW.md)
 - [Opportunities](opportunities/OVERVIEW.md)
+
+## Featured Content
+- [SB 1383 Methane](regulations/sb_1383_methane.md)
+- [Market Saturation (Transport) - Risk: Heavy-Duty Electric Vehicles](risks/market_saturation.md)
