@@ -21,7 +21,7 @@ Key players in the California Renewable Natural Gas (RNG) ecosystem, including p
 
 ## Utilities
 
-- [PG&E](pge.md)
+- [PG&E](pge.md): A major California utility governing RNG interconnection through Rule 21 and SRGIA [6](#ref-6).
 - [SoCalGas](socalgas.md): A major California utility and infrastructure developer working toward a goal of 20% RNG delivery for core customers by 2030 [3](#ref-3).
 
 ### Citations
@@ -40,3 +40,6 @@ Key players in the California Renewable Natural Gas (RNG) ecosystem, including p
 
 <a id="ref-5"></a>
 [5] : https://totalenergies.com/news/press-releases/totalenergies-and-vanguard-renewables-portfolio-company-blackrocks-diversified
+
+<a id="ref-6"></a>
+[6] : https://www.cpuc.ca.gov/industries-and-topics/natural-gas/renewable-gas
