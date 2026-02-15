@@ -16,3 +16,7 @@ Welcome to the California Renewable Natural Gas (RNG) Industry Knowledge Base. T
 - [Sevana Bioenergy](companies/sevana_bioenergy.md)
 - [SB 1383 Methane](regulations/sb_1383_methane.md)
 - [Market Saturation (Transport) - Risk: Heavy-Duty Electric Vehicles](risks/market_saturation.md)
+
+## Recent Updates
+
+*   [LCFS Program Overview](regulations/lcfs_program.md): Detailed history and analysis of the 2024/2025 amendments.
