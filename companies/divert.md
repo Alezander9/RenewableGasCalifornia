@@ -1,4 +1,4 @@
-# Divert
+# Divert - Overview
 
 Divert is a technology provider focused on reducing food waste and transforming it into renewable energy. The company operates a network of facilities across the United States, with a significant presence in California.
 
@@ -8,7 +8,7 @@ Divert utilizes a proprietary multi-step process to convert food waste into Rene
 
 - **Depackaging:** Their technology allows for the processing of loose, packaged, and contaminated materials together, enabling the handling of retail and industrial food waste streams [1](#ref-1).
 - **Anaerobic Digestion:** Organic material is processed in anaerobic digesters where microorganisms break down waste in the absence of oxygen to produce biogas [2](#ref-2).
-- **RNG Production:** The resulting biogas is upgraded to pipeline-quality RNG, which is carbon-negative and can be injected into existing utility systems, such as PG&E in California [3](#ref-3).
+- **RNG Production:** The resulting biogas is upgraded to pipeline-quality RNG, which is carbon-negative and can be injected into existing utility systems, such as [PG&E](pge.md) in California [3](#ref-3).
 - **Byproducts:** The process produces a nutrient-rich soil amendment used as fertilizer [4](#ref-4).
 
 ## California Operations
