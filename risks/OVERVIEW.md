@@ -5,3 +5,6 @@
 * [Market Saturation](market_saturation.md)
 * [Regulatory Changes](regulatory_changes.md)
 * [Verification Complexity](verification_complexity.md)
+
+## Market Risks
+- [Market Saturation (Transport) - Risk: Heavy-Duty Electric Vehicles](market_saturation.md)
