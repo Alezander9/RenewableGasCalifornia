@@ -1,11 +1,11 @@
 # LCFS Credit Prices - Analysis
 
-The Low Carbon Fuel Standard (LCFS) credit market is characterized by a significant surplus bank that has depressed prices in recent years, though analysts anticipate a tightening market toward the end of the decade.
+The [Low Carbon Fuel Standard (LCFS)](lcfs_overview.md) credit market is characterized by a significant surplus bank that has depressed prices in recent years, though analysts anticipate a tightening market toward the end of the decade [1](#ref-1), [3](#ref-3).
 
 ## Price Forecasts and Market Commentary
 
 ### California LCFS
-Market analysts generally expect a period of continued price pressure followed by a recovery as regulatory adjustments take effect.
+Market analysts generally expect a period of continued price pressure followed by a recovery as regulatory adjustments take effect [1](#ref-1), [2](#ref-2), [3](#ref-3).
 
 *   **Enverus (October 2024):** Anticipates short-term price declines as the credit bank surplus is projected to peak at 41.4 million credits in 4Q 2027 [1](#ref-1). However, the market is expected to become "bullishly undersupplied" post-2027 due to the activation of the auto-acceleration mechanism (AAM) in 2Q 2027 and more aggressive reduction targets (increasing from 20% to 30%) [1](#ref-1).
 *   **W|Carbon (January 2026):** Predicts that California LCFS prices will rise above $100/MT through Q1 2026 [2](#ref-2). This recovery is attributed to the implementation of 2026 regulations which increase compliance stringency [2](#ref-2).
