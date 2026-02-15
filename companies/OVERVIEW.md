@@ -16,10 +16,14 @@ This section provides details on key companies operating in the organic waste an
 * [OPAL Fuels](opal_fuels.md)
 * [PG&E](pge.md)
 * [Sevana Bioenergy](sevana_bioenergy.md)
-* [SoCalGas](socalgas.md)
+* [SoCalGas](socalgas.md): A major California utility and infrastructure developer working toward a goal of 20% RNG delivery for core customers by 2030 [2](#ref-2).
 * [Vanguard Renewables](vanguard_renewables.md)
 
 ### Citations
 
 <a id="ref-1"></a>
 [1] : https://www.wastedive.com/news/anaergia-rialto-operations-contract-q3-2024-report/733194/
+
+<a id="ref-2"></a>
+[2] : https://www.socalgas.com/sustainability/renewable-natural-gas
+
