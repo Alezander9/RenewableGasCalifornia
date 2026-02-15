@@ -1,6 +1,6 @@
 # Regulatory Changes (Book and Claim) - Risk
 
-The use of "book and claim" accounting for Renewable Natural Gas (RNG) in the California Low Carbon Fuel Standard (LCFS) is subject to significant regulatory risk. Recent amendments by the California Air Resources Board (CARB) have introduced restrictions that could phase out or severely limit the eligibility of many RNG projects, particularly those located out-of-state.
+The use of "book and claim" accounting for Renewable Natural Gas (RNG) in the California Low Carbon Fuel Standard (LCFS) is subject to significant regulatory risk. Recent amendments by the California Air Resources Board (CARB) have introduced restrictions that could phase out or severely limit the eligibility of many RNG projects, particularly those located out-of-state [2](#ref-2).
 
 ## Key Risks
 
@@ -8,7 +8,7 @@ The use of "book and claim" accounting for Renewable Natural Gas (RNG) in the Ca
 - **Physical Deliverability Requirements**: New "deliverability" rules require that RNG be transported via pipelines that physically flow toward California at least 50% of the time, beginning in 2041 for transportation fuel [2](#ref-2).
 - **Loss of Avoided Methane Credits**: The phase-out of avoided methane crediting for new projects after 2029 significantly reduces the potential value of RNG credits from high-impact sources like dairy farms [3](#ref-3).
 
-For a detailed analysis of these changes and their impact on book and claim accounting, see [Book and Claim Accounting - Analysis](../carbon_credit_markets/book_and_claim_accounting.md).
+For a detailed analysis of these changes, the phase-out timeline, and market impacts, see [Book and Claim Accounting - Analysis](../carbon_credit_markets/book_and_claim_accounting.md).
 
 ### Citations
 

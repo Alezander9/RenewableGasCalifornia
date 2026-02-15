@@ -1,6 +1,6 @@
 # Book and Claim Accounting - Analysis
 
-Book and claim accounting is a tracking mechanism that allows for the decoupling of environmental attributes from the physical flow of a commodity, such as Renewable Natural Gas (RNG). In this system, RNG is injected into a common carrier pipeline in one location, and an equivalent amount of gas is "claimed" at another location, often across state lines, without requiring a physical delivery contract between the producer and the end-user.
+Book and claim accounting is a tracking mechanism that allows for the decoupling of environmental attributes from the physical flow of a commodity, such as Renewable Natural Gas (RNG). In this system, RNG is injected into a common carrier pipeline in one location, and an equivalent amount of gas is "claimed" at another location, often across state lines, without requiring a physical delivery contract between the producer and the end-user [2](#ref-2).
 
 ## California LCFS Policy Shifts and Debate
 
@@ -16,7 +16,9 @@ The California Air Resources Board (CARB) has recently adopted significant amend
 
 ### Impact on the Market
 
-These restrictions are expected to significantly impact out-of-state RNG projects that currently rely on book and claim to access the California LCFS market. The "50% flow" rule effectively limits the geographic range of projects that can participate, favoring those closer to California or located on major pipeline corridors with consistent westward flow.
+These restrictions are expected to significantly impact out-of-state RNG projects that currently rely on book and claim to access the California LCFS market [2](#ref-2). The "50% flow" rule effectively limits the geographic range of projects that can participate, favoring those closer to California or located on major pipeline corridors with consistent westward flow [3](#ref-3).
+
+For a summary of the regulatory risks associated with these changes, see [Regulatory Changes (Book and Claim) - Risk](../risks/regulatory_changes.md).
 
 ### Citations
 
