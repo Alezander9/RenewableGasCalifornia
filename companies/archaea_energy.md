@@ -20,9 +20,24 @@ Archaea also manages agricultural digester projects in the Central Valley, inclu
 *   **Red Top (Madera):** A digester facility located at 21519 Rd 4 [1](#ref-1).
 *   **Soares / Soares Injection (Dos Palos):** A digester and injection facility located at 19155 Road 1 [1](#ref-1).
 
-## Integration with BP
+## BP Strategy and RNG Production Targets
 
-Since its acquisition, Archaea Energy has been strategically aligned with BP’s goal to increase RNG volumes five-fold by 2030 [4](#ref-4). The acquisition preserved Archaea’s management and operations team to maintain expertise in modular RNG plant design [5](#ref-5). Through the Lightning Renewables JV with Republic Services, BP continues to develop over 40 RNG projects across the U.S. [2](#ref-2).
+BP's acquisition of Archaea Energy is a cornerstone of its transition from an International Oil Company (IOC) to an Integrated Energy Company (IEC), with bioenergy serving as one of BP’s five strategic transition growth engines [6](#ref-6).
+
+### Strategic Pillars
+
+*   **Modular Design:** BP utilizes the "Archaea V1" standardized modular plant design to accelerate the conversion of landfill gas to RNG. This approach is intended to reduce construction timelines and costs compared to traditional custom-built plants [6](#ref-6)[7](#ref-7).
+*   **Integrated Value Chain:** Archaea’s production pipeline is integrated with BP’s global trading and shipping (T&S) organization to maximize value through global market access [6](#ref-6).
+*   **Distribution Network:** The acquisition of TravelCenters of America (TA) provides BP with a network of approximately 280 sites for RNG distribution, specifically targeting heavy-duty transport customers [7](#ref-7).
+
+### Production and Financial Targets
+
+BP has established the following targets for its biogas business, underpinned by the Archaea acquisition:
+
+*   **RNG Volume Growth:** From a 2022 baseline of approximately 6,000 barrels of oil equivalent per day (mboed), BP aims to increase its total biogas supply to approximately 70 mboed by 2030, representing a five-fold increase in RNG volumes [6](#ref-6).
+*   **Project Pipeline:** BP is executing a development pipeline of over 80 projects inherited from Archaea. This includes the 2023 launch of the Medora plant in Indiana, the first to use the Archaea V1 modular design [6](#ref-6)[7](#ref-7).
+*   **Financial Contribution:** BP expects the biogas business to contribute approximately $2 billion to its EBITDA by 2030 [5](#ref-5).
+*   **Joint Ventures:** Through the Lightning Renewables JV with Republic Services, BP continues to develop over 40 RNG projects across the U.S. [2](#ref-2).
 
 ### Citations
 
@@ -40,3 +55,9 @@ Since its acquisition, Archaea Energy has been strategically aligned with BP’s
 
 <a id="ref-5"></a>
 [5] : https://www.bp.com/content/dam/bp/country-sites/en_us/united-states/home/documents/news/press-releases/bp-accelerates-and-expands-in-bioenergy-agreeing-to-buy-leading-us-biogas-company-archaea-energy.pdf
+
+<a id="ref-6"></a>
+[6] : https://www.bp.com/content/dam/bp/business-sites/en/global/corporate/pdfs/investors/bp-archaea-energy-investor-webcast-slides-and-script.pdf
+
+<a id="ref-7"></a>
+[7] : https://www.bp.com/en/global/corporate/news-and-insights/energy-in-focus/2023-in-photos-a-year-of-delivery.html
