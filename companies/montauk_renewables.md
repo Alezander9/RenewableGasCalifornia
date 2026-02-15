@@ -1,11 +1,11 @@
-# Montauk Renewables
+# Montauk Renewables - Overview
 
 Montauk Renewables is a renewable energy company specializing in the recovery and processing of landfill methane and other non-fossil fuel beneficial-use projects. In California, the company primarily operates the Bowerman Power facility. [1](#ref-1)
 
 ## Landfill Gas Projects
 
 ### Bowerman Power
-Located at the Frank R. Bowerman Landfill in Irvine, California (Orange County), Bowerman Power is a significant electric power generation facility. [1](#ref-1)
+Located at the Frank R. Bowerman Landfill in Irvine, California (Orange County), Bowerman Power is a significant [electric power generation](../opportunities/electricity_generation.md) facility. [1](#ref-1)
 
 - **Operational History**: The landfill gas collection system at the site has been in operation since 1998. Montauk Renewables' power generation facility commenced operations in 2016. [1](#ref-1)
 - **Capacity**: The facility has an electric power generation capacity of 23.6 Megawatts (MW). [1](#ref-1)
