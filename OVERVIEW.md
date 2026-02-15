@@ -1,12 +1,11 @@
 # Knowledge Base - Overview
 
-This knowledge base contains information about the RNG and bioenergy industry in California, including regulations, market opportunities, risks, and key companies.
+Welcome to the California Renewable Natural Gas (RNG) Industry Knowledge Base. This repository provides in-depth analysis of the regulations, companies, and market dynamics shaping the industry.
 
 ## Sections
-
-*   [Industry Overview](./industry_overview/OVERVIEW.md)
-*   [Regulations](./regulations/OVERVIEW.md)
-*   [Companies](./companies/OVERVIEW.md)
-*   [Carbon Credit Markets](./carbon_credit_markets/OVERVIEW.md)
-*   [Opportunities](./opportunities/OVERVIEW.md)
-*   [Risks](./risks/OVERVIEW.md)
+- [Regulations](regulations/OVERVIEW.md)
+- [Industry Overview](industry_overview/OVERVIEW.md)
+- [Companies](companies/OVERVIEW.md)
+- [Carbon Credit Markets](carbon_credit_markets/OVERVIEW.md)
+- [Risks](risks/OVERVIEW.md)
+- [Opportunities](opportunities/OVERVIEW.md)
