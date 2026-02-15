@@ -1,10 +1,10 @@
 # Archaea Energy - Overview
 
-Archaea Energy, a subsidiary of BP, is a leading renewable natural gas (RNG) producer in the United States. BP completed the acquisition of Archaea Energy in December 2022 for approximately $4.1 billion, establishing it as a cornerstone of BP’s bioenergy transition growth engine [4](#ref-4)[5](#ref-5). The integration leverages BP's global trading organization to market RNG and provides access to a large customer base seeking decarbonization solutions [4](#ref-4).
+Archaea Energy, a subsidiary of BP, is a leading [renewable natural gas (RNG)](../industry_overview/OVERVIEW.md) producer in the United States. BP completed the acquisition of Archaea Energy in December 2022 for approximately $4.1 billion, establishing it as a cornerstone of BP’s bioenergy transition growth engine [4](#ref-4)[5](#ref-5). The integration leverages BP's global trading organization to market RNG and provides access to a large customer base seeking decarbonization solutions [4](#ref-4).
 
 ## California Projects
 
-Archaea Energy operates several landfill gas and agricultural digester projects across California [1](#ref-1).
+Archaea Energy operates several [landfill gas](../industry_overview/feedstock_types.md) and [agricultural digester](../industry_overview/feedstock_types.md) projects across California [1](#ref-1).
 
 ### Landfill Gas-to-RNG Projects
 
