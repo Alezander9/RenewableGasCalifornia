@@ -10,7 +10,7 @@ The BMI Program provides financial assistance to developers for interconnection 
 ## Recent Proposals
 
 ### Rate-Basing Interconnection Facilities
-In late 2025, utilities including SoCalGas proposed "rate-basing" biomethane interconnection facilities. This proposal aims to reduce interconnection costs by approximately 24% by eliminating the Income Tax Component of Contributions (ITCCA) that currently applies when developers fund these facilities [1](#ref-1).
+In late 2025, utilities including [SoCalGas](../companies/socalgas.md) proposed "rate-basing" biomethane interconnection facilities. This proposal aims to reduce interconnection costs by approximately 24% by eliminating the Income Tax Component of Contributions (ITCCA) that currently applies when developers fund these facilities [1](#ref-1).
 
 ### Citations
 

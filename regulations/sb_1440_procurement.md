@@ -7,8 +7,8 @@ Senate Bill (SB) 1440 (Hueso, 2020) requires the California Public Utilities Com
 Decision (D.) 22-12-057 established the framework for SB 1440 biomethane procurement. As of early 2026, several utilities have filed petitions for modification regarding these targets.
 
 ### Utility Compliance and Petitions
-*   **SoCalGas:** Along with SDG&E and Southwest Gas, filed a Petition for Modification in February 2026 to address hydrogen blending and reference a 'Hydrogen Compendium Report' [1](#ref-1).
-*   **Contracting:** As of the May 2025 Joint Biomethane Annual Combined Report, SoCalGas had executed one biomethane contract but reported no actual gas flows during 2024 [2](#ref-2).
+*   **[SoCalGas](../companies/socalgas.md):** Along with SDG&E and Southwest Gas, filed a Petition for Modification in February 2026 to address hydrogen blending and reference a 'Hydrogen Compendium Report' [1](#ref-1).
+*   **Contracting:** As of the May 2025 Joint Biomethane Annual Combined Report, [SoCalGas](../companies/socalgas.md) had executed one biomethane contract but reported no actual gas flows during 2024 [2](#ref-2).
 
 ### Citations
 
