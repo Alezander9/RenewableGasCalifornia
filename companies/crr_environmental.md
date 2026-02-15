@@ -1,6 +1,6 @@
 # CR&R Environmental Services
 
-CR&R Environmental Services operates one of the world's largest anaerobic digestion (AD) facilities in Perris, California. The facility is a flagship project for organic waste processing and renewable natural gas (RNG) production.
+CR&R Environmental Services operates one of the world's largest anaerobic digestion (AD) facilities in Perris, California [1](#ref-1) [3](#ref-3). The facility is a flagship project for organic waste processing and renewable natural gas (RNG) production.
 
 ## Perris Anaerobic Digestion Facility
 
@@ -15,7 +15,7 @@ The facility employs **Eisenmann "mixed plug-flow"** anaerobic digestion technol
 
 ### Energy Production and Infrastructure
 - **RNG Output:** At full capacity, the facility generates enough RNG to displace **4 million gallons of diesel fuel** annually [1](#ref-1) [3](#ref-3).
-- **Utility Interconnect:** The site features the only RNG interconnect in California with SoCalGas, allowing direct injection of renewable gas into the utility's pipeline [1](#ref-1) [4](#ref-4).
+- **Utility Interconnect:** The site features the only RNG interconnect in California with [SoCalGas](socalgas.md), allowing direct injection of renewable gas into the utility's pipeline [1](#ref-1) [4](#ref-4).
 - **Fleet Integration:** The RNG produced currently fuels 320 of CR&R's collection vehicles. Upon full expansion, the facility is expected to fuel the company's entire fleet of 900 vehicles [3](#ref-3).
 
 ### Byproducts

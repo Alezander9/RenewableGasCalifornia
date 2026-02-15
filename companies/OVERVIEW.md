@@ -1,6 +1,6 @@
 # Companies - Overview
 
-- [CR&R Environmental Services](crr_environmental.md) - Operates one of the largest anaerobic digestion facilities in the world in Perris, CA.
+- [CR&R Environmental Services](crr_environmental.md) - Operates one of the largest anaerobic digestion facilities in the world in Perris, CA [1](#ref-1).
 - [Vanguard Renewables](vanguard_renewables.md)
 - [SoCalGas](socalgas.md)
 - [PG&E](pge.md)
@@ -16,3 +16,8 @@
 - [Biofuels Energy](biofuels_energy.md)
 - [Archaea Energy](archaea_energy.md)
 - [Sevana Bioenergy](sevana_bioenergy.md)
+
+### Citations
+
+<a id="ref-1"></a>
+[1] : https://energy-vision.org/case-studies/crr-perris-biodigester/
