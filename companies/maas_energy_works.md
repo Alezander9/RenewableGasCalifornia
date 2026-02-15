@@ -1,6 +1,6 @@
 # Maas Energy Works - Overview
 
-Maas Energy Works (MEW) was founded in 2010 by Daryl Maas with a focus on operating manure digesters as a tenant on family-owned dairy farms [1](#ref-1). This model allows dairy families to benefit from renewable energy production while MEW manages technical operations through its specialized divisions: Maas Motor Works (MMW) for power generation systems, Goose Works for biogas cleanup, and its fabrication team for custom products like heat exchangers [1](#ref-1) [3](#ref-3).
+Maas Energy Works (MEW) was founded in 2010 by Daryl Maas with a focus on operating manure digesters as a tenant on family-owned dairy farms [1](#ref-1). This model allows dairy families to benefit from renewable energy production while MEW manages technical operations through its specialized divisions: Maas Motor Works (MMW) for power generation systems, Goose Works for biogas cleanup, and its fabrication team for custom products like heat exchangers [1](#ref-1) [3](#ref-3). The company specializes in converting dairy manure into renewable energy, including renewable electricity and [renewable natural gas (RNG)](../opportunities/bio_cng_lng.md) [3](#ref-3).
 
 ## Dairy Digester Model
 The company's model centers on partnership with family-owned dairies. MEW oversees every stage of development and operation, utilizing Qube Technologies for continuous methane monitoring at over 20 lagoon digesters [5](#ref-5). A notable example of this partnership is the Fernandes family, which manages four digesters in collaboration with MEW [2](#ref-2).
@@ -33,6 +33,19 @@ MEW has established an extensive portfolio of dairy digester projects across Cal
 - **LegenDairy Farms**: Part of Calgren Cluster (2022) [2](#ref-2)
 - **Hydrogen Mobility Project**: A partnership with Utility Global to develop California's first dairy digester-to-hydrogen facility [7](#ref-7)
 
+## LCFS Pathway Certifications
+
+Maas Energy Works has obtained several pathway certifications under California's [Low Carbon Fuel Standard (LCFS)](../regulations/lcfs_program.md) program. These pathways demonstrate the significant carbon reduction potential of their dairy digester projects, often resulting in deeply negative carbon intensity (CI) scores.
+
+### Certified Pathways and Carbon Intensity Scores
+
+| Project / Farm | Pathway Code | Fuel Type | CI Score (gCO2e/MJ) | Status / Certification Date |
+| :--- | :--- | :--- | :--- | :--- |
+| Van Steyn Farm (SMUD) [8](#ref-8) | ELC026B00380100 | Electricity | -630.72 | Certified 12/31/2019 |
+| Van Warmerdam Dairy Farm (SMUD) [9](#ref-9) | ELC026B00370100 | Electricity | -592.68 | Certified 12/31/2019 |
+| Oak Valley Dairy 1 & 4 [10](#ref-10) | CNG026B05470100 | Bio-CNG | -407.68 | Certified 06/28/2024 |
+| Oak Valley Dairy 5 [10](#ref-10) | CNG026B05470200 | Bio-CNG | -415.24 | Certified 06/28/2024 |
+
 ### Citations
 
 <a id="ref-1"></a>
@@ -55,3 +68,12 @@ MEW has established an extensive portfolio of dairy digester projects across Cal
 
 <a id="ref-7"></a>
 [7] : https://media.utilityglobal.com/news/utility-and-maas-announce-agreement-to-develop-dairy-digester-to-hydrogen-mobility-project-in-california
+
+<a id="ref-8"></a>
+[8] : [CARB Staff Summary B0038](https://ww2.arb.ca.gov/sites/default/files/classic/fuels/lcfs/fuelpathways/comments/tier2/b0038_summary.pdf)
+
+<a id="ref-9"></a>
+[9] : [CARB Staff Summary B0037](https://ww2.arb.ca.gov/sites/default/files/classic/fuels/lcfs/fuelpathways/comments/tier2/b0037_summary.pdf)
+
+<a id="ref-10"></a>
+[10] : [CARB Staff Summary B0547](https://ww2.arb.ca.gov/sites/default/files/classic/fuels/lcfs/fuelpathways/comments/tier2/b0547_summary.pdf)
