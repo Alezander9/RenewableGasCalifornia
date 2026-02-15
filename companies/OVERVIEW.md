@@ -22,7 +22,7 @@ Key players in the California Renewable Natural Gas (RNG) ecosystem, including p
 ## Utilities
 
 - [PG&E](pge.md)
-- [SoCalGas](socalgas.md)
+- [SoCalGas](socalgas.md): A major California utility and infrastructure developer working toward a goal of 20% RNG delivery for core customers by 2030 [3](#ref-3).
 
 ### Citations
 
@@ -31,3 +31,6 @@ Key players in the California Renewable Natural Gas (RNG) ecosystem, including p
 
 <a id="ref-2"></a>
 [2] : https://biofuelsenergyllc.com/
+
+<a id="ref-3"></a>
+[3] : https://www.socalgas.com/sustainability/renewable-natural-gas
