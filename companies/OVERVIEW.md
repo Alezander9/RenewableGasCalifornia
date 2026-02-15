@@ -12,7 +12,7 @@ Key players in the California Renewable Natural Gas (RNG) ecosystem, including p
 - [Clean Energy Fuels](clean_energy_fuels.md)
 - [CR&R Environmental Services](crr_environmental.md): Waste collection and organic waste-to-RNG conversion.
 - [Divert](divert.md)
-- [Hitachi Zosen Inova](hitachi_zosen_inova.md)
+- [Hitachi Zosen Inova (Kanadevia Inova)](hitachi_zosen_inova.md)
 - [Maas Energy Works](maas_energy_works.md)
 - [Montauk Renewables](montauk_renewables.md)
 - [OPAL Fuels](opal_fuels.md): Vertically integrated RNG producer and distributor with an extensive fueling station network.
