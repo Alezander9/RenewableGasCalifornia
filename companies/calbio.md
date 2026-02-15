@@ -20,6 +20,49 @@ CalBio is a major developer of dairy methane projects in California and beyond:
 * **Regional Clusters:** Key operations include the Kern Cluster and South Tulare Cluster [1](#ref-1).
 * **Expansion and Partnerships:** CalBio has expanded into South Dakota through a partnership with UGI and [Sevana Bioenergy](sevana_bioenergy.md) in the MBL Bioenergy joint venture [3](#ref-3). It also maintains a strategic partnership with Brookfield Renewable for RNG project development [3](#ref-3).
 
+## Grants and Funding
+
+CalBio has secured significant state funding for its projects through various grant programs.
+
+### CDFA Dairy Digester Research and Development Program (DDRDP)
+
+CalBio has been a major recipient and developer for projects under the California Department of Food and Agriculture (CDFA) DDRDP.
+
+#### 2024 Applications (Pending/Submitted)
+In 2024, CalBio submitted several applications for funding:
+- 6-X Dairy Biogas LLC: $1,600,000 [4](#ref-4)
+- Bear JR Biogas LLC: $1,600,000 [4](#ref-4)
+- Black Diamond Dairy Biogas LLC: $1,600,000 [4](#ref-4)
+- Pires Dairy Farms Biogas LLC: $1,600,000 [4](#ref-4)
+- Antonio Brasil Dairy Biogas LLC: $1,000,000 [4](#ref-4)
+- John Silveira Dairy Biogas LLC: $1,000,000 [4](#ref-4)
+- Correia Dairy Biogas LLC: $1,000,000 [4](#ref-4)
+
+#### 2023 Awarded Projects
+The following CalBio-developed projects were awarded funding in 2023:
+- Moonstone Biogas: $1,600,000 [5](#ref-5)
+- DeJager North Biogas: $1,600,000 [5](#ref-5)
+- Delta View Biogas: $1,600,000 [5](#ref-5)
+- HD Ranch Biogas: $1,600,000 [5](#ref-5)
+- Dairy Avenue and Circle H Biogas: $1,600,000 [5](#ref-5)
+- Felicita Dairy Biogas LLC: $1,300,000 [5](#ref-5)
+- Hidden Valley Dairy: $1,150,000 [5](#ref-5)
+
+#### Historical DDRDP Awards
+CalBio has a long history of securing DDRDP grants for its partner dairies:
+- **2022:** Projects include Bar Mac ($912k), Lerda-Goni ($502k), Martins View ($818k), P&M Dairy ($1.55M), and Top O' The Morn ($1.33M) [5](#ref-5).
+- **2019:** Projects include Elkhorn ($2.13M), Dairyland ($1.76M), and Gerben Leyendekker ($846k) [5](#ref-5).
+- **2017:** Projects include Cloverdale ($3M), Hamstra ($2M), Hollandia ($1.5M), and Bos Farms ($1.5M) [5](#ref-5).
+- **2015:** Projects include Lakeview Dairy ($2M), West-Star North ($1.84M), and Carlos Echeverria & Sons ($1M) [5](#ref-5).
+
+### Other State Grants
+
+#### Dairy Biomethane Pilot Program
+In 2019, CalBio was awarded a $90 million grant for three dairy biomethane pilot projects in Bakersfield, Gustine, and Modesto. This program was a joint effort by the California Public Utilities Commission (CPUC), the California Air Resources Board (CARB), and CDFA [6](#ref-6).
+
+#### California Energy Commission (CEC)
+CalBio has also received funding from the CEC, including $4 million grants for each of the Lakeview Farms Dairy and West Star North Dairy projects [7](#ref-7).
+
 ### Citations
 
 <a id="ref-1"></a>
@@ -30,3 +73,15 @@ CalBio is a major developer of dairy methane projects in California and beyond:
 
 <a id="ref-3"></a>
 [3] : https://www.calbioenergy.com/news-events
+
+<a id="ref-4"></a>
+[4] : https://www.cdfa.ca.gov/oefi/ddrdp/docs/2024_DDRDP_ApplicationsReceived.pdf
+
+<a id="ref-5"></a>
+[5] : https://www.cdfa.ca.gov/oars/ddrdp/docs/2024_ddrdp_legislative_report.pdf
+
+<a id="ref-6"></a>
+[6] : https://advancedbiofuelsusa.info/california-awards-90m-grant-funding-to-dairy-tech-calbio-in-mission-to-reduce-states-livestock-emissions
+
+<a id="ref-7"></a>
+[7] : https://www.dairyherd.com/news/two-steps-forward-dairy-digesters
