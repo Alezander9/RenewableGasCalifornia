@@ -1,6 +1,6 @@
 # RFS RIN Market - Analysis
 
-The federal Renewable Fuel Standard (RFS) program uses Renewable Identification Numbers (RINs) to track compliance with biofuel volume mandates. The market for these credits, particularly D3 RINs associated with Renewable Natural Gas (RNG), has undergone significant shifts due to regulatory changes.
+The federal Renewable Fuel Standard (RFS) program uses Renewable Identification Numbers (RINs) to track compliance with biofuel volume mandates [6](#ref-6). The market for these credits, particularly D3 RINs associated with [Renewable Natural Gas (RNG)](../industry_overview/feedstock_types.md), has undergone significant shifts due to regulatory changes.
 
 ## RIN Price Volatility and the 'Set Rule'
 
@@ -10,7 +10,7 @@ Following the finalization of the Set Rule, D3 RIN prices surged to their highes
 
 ## Impact on Renewable Natural Gas (RNG)
 
-RNG is the primary source for D3 RIN generation, making the RNG market highly sensitive to RFS policy shifts.
+RNG is the primary source for D3 RIN generation [1](#ref-1), making the RNG market highly sensitive to RFS policy shifts.
 
 *   **Supply-Demand Dynamics:** D3 RIN production, largely derived from RNG, has consistently lagged behind EPA mandates. This persistent supply gap, combined with increasing RVO targets, supports elevated RIN prices [3](#ref-3).
 *   **Investment and Risk:** Higher D3 RIN prices resulting from the elimination of the CWC provide a stronger financial signal for RNG project development [4](#ref-4). However, the increased price volatility introduces new complexities for project hedging and compliance strategies [4](#ref-4).
@@ -31,4 +31,7 @@ RNG is the primary source for D3 RIN generation, making the RNG market highly se
 [4] : https://www.afscommodities.com/blog/understanding-volatility-price-dynamics-in-u-s-rec-and-rin-markets-2024-2025
 
 <a id="ref-5"></a>
-[5] : EPA-HQ-OAR-2021-0566-0110_attachment_3.pdf (Rapidan Energy Group Refining & Biofuels Service Monthly Update, February 2022)
+[5] : https://www.regulations.gov/comment/EPA-HQ-OAR-2021-0566-0110
+
+<a id="ref-6"></a>
+[6] : https://www.epa.gov/renewable-fuel-standard-program/overview-renewable-fuel-standard
