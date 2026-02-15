@@ -1,12 +1,12 @@
 # Carbon Credit Markets - Overview
 
-Carbon credit markets are essential for the economic viability of renewable gas projects in California. These markets provide additional revenue streams through the sale of environmental attributes.
+Analysis of the various regulatory and voluntary credit markets that support the economic viability of Renewable Natural Gas (RNG) projects.
 
-## Key Markets and Mechanisms
+## Key Market Mechanisms
 
-*   [Low Carbon Fuel Standard (LCFS) Overview](lcfs_overview.md)
-*   [LCFS Credit Prices](lcfs_credit_prices.md)
-*   [Cap and Trade](cap_and_trade.md)
-*   [RFS RIN Market](rfs_rin_market.md)
-*   [Book and Claim Accounting](book_and_claim_accounting.md)
-*   [Verification and Pathways](verification_and_pathways.md)
+- [LCFS Overview](lcfs_overview.md): Comprehensive guide to California's Low Carbon Fuel Standard market.
+- [LCFS Credit Prices](lcfs_credit_prices.md): Historical and current trends in LCFS credit pricing.
+- [RFS RIN Market](rfs_rin_market.md): The federal Renewable Fuel Standard and its system of Renewable Identification Numbers (RINs).
+- [Cap and Trade](cap_and_trade.md): California's broader economy-wide emissions trading system.
+- [Book and Claim Accounting](book_and_claim_accounting.md): Methodologies for tracking and trading environmental attributes of RNG injected into pipelines.
+- [Verification and Pathways](verification_and_pathways.md): Certification processes for carbon intensity (CI) scores and credit generation.

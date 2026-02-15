@@ -1,16 +1,10 @@
 # Regulations - Overview
 
-The California renewable gas industry is governed by a complex set of regulations designed to reduce greenhouse gas emissions and promote the use of low-carbon fuels. [1](#ref-1)
+The California Low Carbon Fuel Standard (LCFS) is a primary regulatory driver for the Renewable Natural Gas (RNG) market. Recent amendments to the program have significantly impacted credit prices and compliance requirements.
 
-## Key Regulatory Programs
-
-*   [Low Carbon Fuel Standard (LCFS)](lcfs_program.md): The primary program for reducing transportation fuel carbon intensity.
-*   [SB 1383 (Methane Emissions Reductions)](sb_1383_methane.md): Mandates reductions in organic waste disposal to decrease methane emissions.
-*   [SB 1440 (Biomethane Procurement)](sb_1440_procurement.md): Requires gas utilities to procure renewable natural gas.
-*   [Federal Tax Credits (IRA)](federal_tax_credits_ira.md): Federal incentives for clean fuel production.
-*   [Pipeline Interconnection Rules](pipeline_interconnection_rules.md): Standards for injecting RNG into the natural gas grid.
-
-### Citations
-
-<a id="ref-1"></a>
-[1] : https://ww2.arb.ca.gov/our-work
+- [LCFS Program - Regulation](lcfs_program.md): Detailed analysis of the 2024 amendments, CI target adjustments, and their impact on RNG producers.
+- [SB 1383 Methane](sb_1383_methane.md): California's organic waste diversion mandate and its industry impact.
+- [SB 1440 Procurement](sb_1440_procurement.md): Mandatory biomethane procurement targets for California gas utilities (17.6 Bcf by 2025; 72.8 Bcf by 2030).
+- [Clean Fuel Standard Context](clean_fuel_standard_context.md): Background on clean fuel standards.
+- [Federal Tax Credits (IRA)](federal_tax_credits_ira.md): Impact of the Inflation Reduction Act on RNG.
+- [Pipeline Interconnection Rules](pipeline_interconnection_rules.md): Rules for injecting RNG into gas pipelines.
