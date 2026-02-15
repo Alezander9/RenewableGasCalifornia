@@ -1,6 +1,6 @@
 # LCFS Price Volatility Risk in RNG Project Financing
 
-LCFS credit price volatility presents a significant risk for [Renewable Natural Gas (RNG)](../industry_overview/OVERVIEW.md) projects, primarily due to the market-based nature of the credits and the absence of guaranteed price floors [1](#ref-1).
+LCFS credit price volatility presents a significant risk for [Renewable Natural Gas (RNG)](../industry_overview/OVERVIEW.md) projects, primarily due to the market-based nature of the credits and the absence of guaranteed price floors [1](#ref-1). For a detailed breakdown of historical price trends, see [LCFS Credit Prices - Analysis](../carbon_credit_markets/lcfs_credit_prices.md).
 
 ## Market Dynamics and Volatility
 The LCFS market is characterized by substantial price swings. For instance, in 2022, [California LCFS](../carbon_credit_markets/lcfs_overview.md) credit prices ranged from a high of $154/MT to a low of $61/MT, averaging $98/MT [1](#ref-1). While some programs like the Canadian Clean Fuel Regulations (CFR) have established price caps (e.g., CAD 350/MT), they generally lack a hard price floor [1](#ref-1) [2](#ref-2). Regulators often rely on "policy levers" and periodic program amendments to manage supply and demand, which introduces [regulatory lag and uncertainty](regulatory_changes.md) [1](#ref-1).
