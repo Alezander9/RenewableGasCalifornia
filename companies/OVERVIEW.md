@@ -15,7 +15,7 @@ Key players in the California Renewable Natural Gas (RNG) ecosystem, including p
 - [Hitachi Zosen Inova](hitachi_zosen_inova.md)
 - [Maas Energy Works](maas_energy_works.md)
 - [Montauk Renewables](montauk_renewables.md)
-- [OPAL Fuels](opal_fuels.md)
+- [OPAL Fuels](opal_fuels.md): Vertically integrated RNG producer and distributor with an extensive fueling station network.
 - [Sevana Bioenergy](sevana_bioenergy.md)
 - [Vanguard Renewables](vanguard_renewables.md)
 
