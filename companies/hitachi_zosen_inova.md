@@ -6,7 +6,7 @@ Hitachi Zosen Inova (HZI), recently rebranded as Kanadevia Inova, is a global le
 
 Kompogas® is a continuous dry anaerobic digestion process designed for the treatment of [organic waste](../industry_overview/feedstock_types.md) [3](#ref-3).
 
-- **Process Type:** Continuous dry anaerobic digestion using a horizontal plug-flow reactor [3](#ref-3).
+- **Process Type:** Continuous dry anaerobic digestion using a horizontal plug-flow reactor (PF1800 steel digester) [1](#ref-1), [3](#ref-3).
 - **Temperature:** Thermophilic operation (approx. 55°C / 131°F), which ensures waste sanitization [3](#ref-3).
 - **Retention Time:** Typically around 14 days in the digester [3](#ref-3).
 - **Agitation:** A robust horizontal agitator with plow-shaped blades ensures optimal mixing and biogas release [3](#ref-3).
@@ -19,13 +19,15 @@ Kompogas® is a continuous dry anaerobic digestion process designed for the trea
 
 The Kompogas SLO facility is the first of its kind in the United States and serves as a flagship project for HZI in California [1](#ref-1).
 
-- **Location:** San Luis Obispo, California [1](#ref-1).
+- **Location:** 4300 Old Santa Fe Rd., San Luis Obispo, CA 93401 [5](#ref-5).
 - **Operational Status:** Commenced operations in September 2018 [2](#ref-2).
 - **Project Model:** Design, Build, Finance, Own, Operate (DBFOO) [1](#ref-1).
 - **Capacity:** Processes approximately 42,000 US tons per year of green and food waste [1](#ref-1).
-- **Energy Generation:**
-  - **Biogas:** Produces roughly 2,900,000 Nm³/a of [biogas](../opportunities/bio_cng_lng.md) [1](#ref-1).
-  - **Electricity:** Generates approximately 6,321,000 kWh/a of [renewable electricity](../opportunities/electricity_generation.md) [1](#ref-1).
+- **Energy Generation:** [1](#ref-1)
+  - **Biogas:** Produces roughly 2,900,000 Nm³/a of [biogas](../opportunities/bio_cng_lng.md).
+  - **Electricity:** Generates approximately 6,321,000 kWh/a of [renewable electricity](../opportunities/electricity_generation.md).
+  - **Biomethane:** Produces roughly 6,200,000 kWh/a of biomethane.
+- **Funding:** The project received a $4 million grant from CalRecycle and a $4 million grant from the California Energy Commission (CEC) EPIC program [1](#ref-1).
 - **Future Expansion:** In partnership with Char Tech, HZI is implementing a [green hydrogen](../opportunities/hydrogen_production.md) project at the SLO site. This expansion aims to process 18,000 tonnes/year of solid anaerobic digestate into 1,320 tonnes/year of [green hydrogen](../opportunities/hydrogen_production.md) and 2,800 tonnes/year of biocarbon [4](#ref-4).
 
 ### Citations
@@ -41,3 +43,6 @@ The Kompogas SLO facility is the first of its kind in the United States and serv
 
 <a id="ref-4"></a>
 [4] : https://h2bulletin.com/char-hitachi-zosen-inova-partner-for-california-green-hydrogen-project/
+
+<a id="ref-5"></a>
+[5] : https://www2.calrecycle.ca.gov/PublicNotices/Documents/14278
