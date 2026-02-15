@@ -10,3 +10,4 @@ This section covers the various regulatory and voluntary markets that provide fi
 *   **[Cap and Trade](cap_and_trade.md)**: California's broader economy-wide emissions trading system.
 *   **[Verification and Pathways](verification_and_pathways.md)**: The process for certifying the carbon intensity of RNG projects.
 *   **[LCFS Credit Prices](lcfs_credit_prices.md)**: Historical and current trends in credit pricing.
+*   **[Voluntary Carbon Markets](../opportunities/voluntary_carbon_markets.md)**: Corporate procurement and offset markets as an alternative to compliance programs.
