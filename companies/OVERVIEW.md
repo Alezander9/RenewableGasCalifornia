@@ -17,7 +17,7 @@ The following companies are key players in the California RNG and bioenergy mark
 * [PG&E](pge.md)
 * [Sevana Bioenergy](sevana_bioenergy.md)
 * [SoCalGas](socalgas.md)
-* [Vanguard Renewables](vanguard_renewables.md)
+* [Vanguard Renewables](vanguard_renewables.md): A BlackRock portfolio company expanding farm-based RNG projects from "coast to coast," with a strategic focus on the California LCFS market [3](#ref-3).
 
 ### Citations
 
@@ -26,3 +26,6 @@ The following companies are key players in the California RNG and bioenergy mark
 
 <a id="ref-2"></a>
 [2] : https://biofuelsenergyllc.com/
+
+<a id="ref-3"></a>
+[3] : https://totalenergies.com/news/press-releases/totalenergies-and-vanguard-renewables-portfolio-company-blackrocks-diversified
