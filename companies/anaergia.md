@@ -13,7 +13,15 @@ In April 2024, the company stabilized its financial position by completing a C$4
 The company has significantly restructured its presence in California:
 
 ### Rialto Bioenergy Facility (RBF)
-The Rialto facility filed for Chapter 11 bankruptcy in 2023 and was sold to [Sevana Bioenergy](./sevana_bioenergy.md) for $20 million in June 2024 [4](#ref-4). Although Anaergia no longer owns the asset, it secured a 10-year O&M contract in November 2024 to continue operating the facility for the new owners [5](#ref-5).
+The Rialto Bioenergy Facility (RBF), located in Rialto, California, is an organic waste-to-energy plant originally developed by Anaergia to convert food waste and municipal biosolids into renewable natural gas (RNG) and fertilizer [4](#ref-4).
+
+#### Capacity
+The facility has a total processing capacity of 1,000 tons per day. This includes capacity for up to 700 tons of food waste and 300 tons of municipal biosolids per day [4](#ref-4). The plant has struggled to reach full capacity due to feedstock supply issues and financial constraints [4](#ref-4).
+
+#### Financial Restructuring and Sale
+A subsidiary of Anaergia, Rialto Bioenergy Facility LLC, filed for Chapter 11 bankruptcy protection in May 2023 [4](#ref-4). As of late May 2024, the facility had reported a cumulative net loss of approximately $42.9 million since September 2023 [4](#ref-4).
+
+In June 2024, [Sevana Bioenergy](sevana_bioenergy.md) acquired the facility for $20 million at auction following the bankruptcy proceedings [4](#ref-4) [7](#ref-7). Although Anaergia no longer owns the asset, it secured a 10-year O&M contract in November 2024 to continue operating the facility for the new owners [5](#ref-5). Sevana Bioenergy currently owns and operates the facility and intends to ramp up RNG production and throughput [4](#ref-4).
 
 ### Victor Valley Facility
 Anaergia continues to own and operate the SoCal Biomethane plant at the Victor Valley Wastewater Reclamation Authority (VVWRA). In August 2025, a 20-year agreement was proposed for Southwest Gas to purchase RNG from this facility [6](#ref-6).
@@ -40,3 +48,6 @@ In September 2025, Anaergia sold its biogas upgrading plant in Riverside to an u
 
 <a id="ref-6"></a>
 [6] : https://www.vvng.com/southwest-gas-proposes-renewable-natural-gas-project-using-food-and-wastewater-in-victorville
+
+<a id="ref-7"></a>
+[7] : https://www.wastetodaymagazine.com/news/sevana-bioenergy-acquire-rialto-bioenergy-facility
