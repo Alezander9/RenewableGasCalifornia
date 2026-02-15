@@ -1,6 +1,6 @@
 # LCFS Credit Prices - Analysis
 
-Historical LCFS credit prices have shown significant volatility since the program's inception. Based on the California Air Resources Board (CARB) LCFS Data Dashboard, the following trends have been observed:
+Historical [LCFS](lcfs_overview.md) credit prices have shown significant [volatility](../risks/lcfs_price_volatility.md) since the program's inception. Based on the California Air Resources Board (CARB) [LCFS Program](../regulations/lcfs_program.md) Data Dashboard, the following trends have been observed:
 
 ## Historical Price Trends
 
