@@ -27,6 +27,10 @@ SoCalGas is implementing its biomethane procurement plan in accordance with CPUC
 *   **Short-term (by 2025):** SoCalGas is working toward meeting its allocation of the statewide goal of procuring 17.6 Bcf of renewable natural gas (RNG) annually, specifically derived from organic waste diverted from landfills [3](#ref-3).
 *   **Medium-term (by 2030):** The target is to procure RNG equal to 12.2% of bundled core gas demand (based on 2020 levels) [3](#ref-3).
 
+### Recent Compliance and Petitions
+*   **Petition for Modification:** In February 2026, SoCalGas, along with SDG&E and Southwest Gas, filed a Petition for Modification of Decision 22-12-057 to address hydrogen blending and reference a 'Hydrogen Compendium Report' [8](#ref-8).
+*   **Contracting Status:** As of the May 2025 Joint Biomethane Annual Combined Report, SoCalGas had executed one biomethane contract but reported no actual gas flows during 2024 [9](#ref-9).
+
 ### Solicitation Schedule
 *   **Q2 2025 Request for Offers (RFO):** Issued on May 27, 2025, with a closing date of June 15, 2025. Contract execution for this solicitation is targeted for December 17, 2025 [4](#ref-4).
 *   **Future Solicitation:** SoCalGas intends to hold subsequent solicitation events in 2026 to continue meeting SB 1440 requirements [4](#ref-4).
@@ -72,3 +76,9 @@ PG&E has submitted a Draft Renewable Gas Procurement Plan (RGPP) to comply with 
 
 <a id="ref-7"></a>
 [7] : https://www.pge.com/en/about/doing-business-with-pge/core-gas-supply.html#rng
+
+<a id="ref-8"></a>
+[8] : https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M597/K710/597710574.PDF
+
+<a id="ref-9"></a>
+[9] : https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M565/K498/565498849.PDF
