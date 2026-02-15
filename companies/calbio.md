@@ -1,6 +1,6 @@
 # California Bioenergy (CalBio) - Overview
 
-California Bioenergy (CalBio) specializes in the development and operation of dairy digester projects to capture methane and produce renewable natural gas (RNG).
+California Bioenergy (CalBio) specializes in the development and operation of dairy digester projects to capture methane and produce renewable natural gas (RNG) [1](#ref-1).
 
 ## Technology and Methane Capture
 CalBio utilizes anaerobic digesters to capture methane-rich biogas from dairy manure, preventing its release into the atmosphere [1](#ref-1). The process involves:
@@ -11,7 +11,7 @@ CalBio utilizes anaerobic digesters to capture methane-rich biogas from dairy ma
 
 ## Partnership with Chevron
 CalBio and Chevron U.S.A. Inc. have established a joint investment called **CalBioGas Hilmar LLC** [2](#ref-2). 
-* **Hilmar Project:** Completed in November 2024, this project includes a central processing facility in Merced County, California, that upgrades biogas from seven dairy digesters into RNG for injection into the PG&E pipeline [2](#ref-2).
+* **Hilmar Project:** Completed in November 2024, this project includes a central processing facility in Merced County, California, that upgrades biogas from seven dairy digesters into RNG for injection into the [PG&E](pge.md) pipeline [2](#ref-2).
 * **Environmental Impact:** The project is estimated to reduce greenhouse gas emissions by approximately 95,000 metric tons of CO2 equivalent annually [2](#ref-2).
 
 ## Dairy Digester Projects
