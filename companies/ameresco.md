@@ -1,12 +1,12 @@
 # Ameresco - Overview
 
-Ameresco has developed multiple landfill gas-to-energy (LFGTE) and renewable natural gas (RNG) projects in California.
+Ameresco has developed multiple landfill gas-to-energy (LFGTE) and renewable natural gas (RNG) projects in California. [1](#ref-1)
 
 ## California Landfill Gas-to-Energy Projects
 
 ### Keller Canyon RNG Plant
 *   **Location:** Pittsburg, CA (Keller Canyon Landfill) [1](#ref-1)
-*   **Capacity:** Processes 4,500 scfm of LFG; delivers ~1 BCF of RNG annually; 11.7 Mwe Energy Asset [1](#ref-1)
+*   **Capacity:** Processes 4,500 scfm of LFG; delivers ~1 BCF of RNG annually; 11.7 MWe Energy Asset [1](#ref-1)
 *   **Partners:** Republic Services, PG&E [1](#ref-1)
 *   **Status:** Commercial operations began September 2024 [1](#ref-1)
 
@@ -76,3 +76,6 @@ Ameresco has developed multiple landfill gas-to-energy (LFGTE) and renewable nat
 
 <a id="ref-8"></a>
 [8] : https://www.ameresco.com/3000-homes-powered-energy-santa-cruz-landfill/
+
+---
+Back to [Companies Overview](OVERVIEW.md) | Back to [Main Overview](../OVERVIEW.md)
