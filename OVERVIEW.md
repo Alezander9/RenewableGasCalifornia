@@ -8,6 +8,7 @@
 
 ## Companies
 * [Overview](companies/OVERVIEW.md)
+* [Ameresco](companies/ameresco.md)
 * [Anaergia](companies/anaergia.md)
 * [Hitachi Zosen Inova](companies/hitachi_zosen_inova.md)
 * [Sevana Bioenergy](companies/sevana_bioenergy.md)
