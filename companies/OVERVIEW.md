@@ -4,7 +4,7 @@ Key players in the California Renewable Natural Gas (RNG) ecosystem, including p
 
 ## Key RNG Developers and Operators
 
-- [Ameresco](ameresco.md)
+- [Ameresco](ameresco.md) - Clean technology integrator and renewable energy asset developer.
 - [Anaergia](anaergia.md): A provider of organic waste-to-energy solutions that has recently shifted to a capital-light business model focusing on EPC and O&M services [1](#ref-1).
 - [Archaea Energy](archaea_energy.md): A BP-owned leader in landfill gas-to-RNG projects.
 - [BioFuels Energy](biofuels_energy.md): A California-based developer of biomethane purification plants and fuel cell energy projects [2](#ref-2).
