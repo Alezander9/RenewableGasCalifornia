@@ -1,9 +1,9 @@
 # Companies - Overview
 
-This section provides details on key companies operating in the renewable natural gas and food waste diversion sectors.
+This section provides details on key companies operating in the organic waste and renewable natural gas (RNG) sectors.
 
 * [Ameresco](ameresco.md)
-* [Anaergia](anaergia.md)
+* [Anaergia](anaergia.md): A provider of organic waste-to-energy solutions that has recently shifted to a capital-light business model focusing on EPC and O&M services [1](#ref-1).
 * [Archaea Energy](archaea_energy.md)
 * [BioFuels Energy](biofuels_energy.md)
 * [California Bioenergy (CalBio)](calbio.md)
@@ -18,3 +18,8 @@ This section provides details on key companies operating in the renewable natura
 * [Sevana Bioenergy](sevana_bioenergy.md)
 * [SoCalGas](socalgas.md)
 * [Vanguard Renewables](vanguard_renewables.md)
+
+### Citations
+
+<a id="ref-1"></a>
+[1] : https://www.wastedive.com/news/anaergia-rialto-operations-contract-q3-2024-report/733194/
