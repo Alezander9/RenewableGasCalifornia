@@ -3,6 +3,6 @@
 * [Clean Fuel Standard Context](clean_fuel_standard_context.md)
 * [Federal Tax Credits (IRA)](federal_tax_credits_ira.md)
 * [LCFS Program](lcfs_program.md)
-* [Pipeline Interconnection Rules](pipeline_interconnection_rules.md)
+* [Pipeline Interconnection Rules](pipeline_interconnection_rules.md) - Rules and financial incentives for RNG pipeline injection.
 * [SB 1383 Methane](sb_1383_methane.md)
-* [SB 1440 Procurement](sb_1440_procurement.md)
+* [SB 1440 Procurement](sb_1440_procurement.md) - Biomethane procurement targets for California gas utilities.

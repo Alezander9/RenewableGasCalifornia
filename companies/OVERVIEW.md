@@ -16,5 +16,5 @@ The following companies are key players in the California RNG and bioenergy mark
 *   [OPAL Fuels](./opal_fuels.md)
 *   [PG&E](./pge.md)
 *   [Sevana Bioenergy](./sevana_bioenergy.md)
-*   [SoCalGas](./socalgas.md)
+*   [SoCalGas](./socalgas.md) - Major natural gas utility active in biomethane procurement and interconnection.
 *   [Vanguard Renewables](./vanguard_renewables.md)
