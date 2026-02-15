@@ -11,7 +11,7 @@ As of 2024, RNG has nearly reached its maximum penetration within the California
 ## Total Heavy-Duty Market Constraints
 While RNG dominates the NGV niche, its ability to displace conventional fuels in the broader heavy-duty vehicle (HDV) market is limited by the small size of the NGV fleet relative to the total trucking sector.
 - **Maximum Displacement:** Cost-viable RNG is projected to displace at most **8.9%** of California's total HDV fuel demand by 2030 [6](#ref-6).
-- **In-State Production Limits:** Even if in-state production were maximized, it would likely only meet 19% of total HDV demand, subject to significant economic and investment uncertainties [6](#ref-6).
+- **In-State Production Limits:** Even if in-state production were maximized, it would likely only meet **19%** of total HDV demand, subject to significant economic and investment uncertainties [6](#ref-6).
 
 ## Regulatory and Policy Prioritization
 State-level regulations, particularly California’s Advanced Clean Truck (ACT) rule and updated [Low Carbon Fuel Standard (LCFS)](../regulations/lcfs_program.md), increasingly prioritize Zero-Emission Vehicles (ZEVs) such as Battery Electric Vehicles (BEVs) over Near-Zero Emission Vehicles (NZEVs) like RNG-powered trucks [1](#ref-1) [2](#ref-2). This shift compels Original Equipment Manufacturers (OEMs) to focus their development and sales efforts on ZEV platforms, potentially reducing the availability and support for RNG vehicle options.
