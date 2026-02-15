@@ -1,6 +1,6 @@
 # Voluntary Carbon Markets - Opportunity
 
-The voluntary carbon market (VCM) serves as an alternative or complement to compliance-driven markets like the California Low Carbon Fuel Standard (LCFS) and the federal Renewable Fuel Standard (RFS).
+The voluntary carbon market (VCM) serves as an alternative or complement to compliance-driven markets like the [California Low Carbon Fuel Standard (LCFS)](../carbon_credit_markets/lcfs_overview.md) and the federal [Renewable Fuel Standard (RFS)](../carbon_credit_markets/rfs_rin_market.md) [5](#ref-5) [6](#ref-6).
 
 ## RNG Methodologies in the Voluntary Carbon Market
 
@@ -54,4 +54,4 @@ L'Oreal utilizes long-term RNG procurement for its US operations. Similar to the
 [7] : https://www.afscommodities.com/blog/building-a-multi-credit-portfolio-integrating-rins-with-state-lcfs-and-voluntary-carbon-offsets
 
 <a id="ref-8"></a>
-[8] : https://duckduckgo.com/?q=Gold+Standard+methodology+biomethane&ia=web
+[8] : https://globalgoals.goldstandard.org/403-lufa-animal-waste-management-and-biogas-use-for-thermal-energy-generation/
