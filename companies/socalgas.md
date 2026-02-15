@@ -1,4 +1,4 @@
-# SoCalGas
+# SoCalGas - Overview
 
 Southern California Gas Company (SoCalGas) is a primary facilitator of the renewable natural gas (RNG) market in California, serving as both a major distributor and an infrastructure developer for renewable energy projects [1](#ref-1).
 
@@ -13,11 +13,11 @@ As part of its ASPIRE 2045 strategy, SoCalGas has set several benchmarks for 203
 
 ## RNG Initiatives and Progress
 
-SoCalGas actively procures and distributes RNG through its extensive infrastructure:
+SoCalGas actively procures and distributes RNG through its extensive [infrastructure](../industry_overview/infrastructure.md):
 - **Current Infrastructure**: The utility receives RNG from 10 production facilities, including eight dairy clusters and two facilities processing food and green waste [1](#ref-1).
 - **Core Customer Delivery**: As of 2024, RNG represents approximately 5.5% of the gas delivered to core customers [1](#ref-1).
-- **Transportation Sector**: Since 2019, SoCalGas has replaced traditional compressed natural gas (CNG) with RNG at 38 company-owned fueling stations, reportedly avoiding over 1 million metric tons of CO2 emissions [3](#ref-3).
-- **Procurement Targets (SB 1440)**: In alignment with CPUC requirements under SB 1440, SoCalGas is working toward procurement targets of 17.6 BCF/year by 2025 and a medium-term goal of 12.2% of core customer demand by 2030 [3](#ref-3).
+- **[Transportation Sector](../industry_overview/transportation_market.md)**: Since 2019, SoCalGas has replaced traditional compressed natural gas (CNG) with RNG at 38 company-owned fueling stations, reportedly avoiding over 1 million metric tons of CO2 emissions [3](#ref-3).
+- **Procurement Targets ([SB 1440](../regulations/sb_1440_procurement.md))**: In alignment with CPUC requirements under [SB 1440](../regulations/sb_1440_procurement.md), SoCalGas is working toward procurement targets of 17.6 BCF/year by 2025 and a medium-term goal of 12.2% of core customer demand by 2030 [3](#ref-3).
 
 ## Role in the California RNG Market
 
