@@ -1,10 +1,10 @@
 # Maas Energy Works - Overview
 
-Maas Energy Works is a leading developer and operator of dairy digester projects in the United States, with a significant presence in California. The company specializes in converting dairy manure into renewable energy, including renewable electricity and renewable natural gas (RNG).
+Maas Energy Works is a developer and operator of dairy digester projects in the United States, with a significant presence in California [1](#ref-1). The company specializes in converting dairy manure into renewable energy, including renewable electricity and [renewable natural gas (RNG)](../opportunities/bio_cng_lng.md) [3](#ref-3).
 
 ## LCFS Pathway Certifications
 
-Maas Energy Works has obtained several pathway certifications under California's Low Carbon Fuel Standard (LCFS) program. These pathways demonstrate the significant carbon reduction potential of their dairy digester projects, often resulting in deeply negative carbon intensity (CI) scores.
+Maas Energy Works has obtained several pathway certifications under California's [Low Carbon Fuel Standard (LCFS)](../regulations/lcfs_program.md) program. These pathways demonstrate the significant carbon reduction potential of their dairy digester projects, often resulting in deeply negative carbon intensity (CI) scores.
 
 ### Certified Pathways and Carbon Intensity Scores
 
