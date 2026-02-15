@@ -1,6 +1,6 @@
 # Hydrogen Production (RNG to H2) - Opportunity
 
-The conversion of Renewable Natural Gas (RNG) into clean hydrogen is a key strategic opportunity for California's energy transition. Leveraging existing bio-resources allows for the production of low-carbon hydrogen using established RNG supply chains.
+The conversion of Renewable Natural Gas (RNG) into clean hydrogen is a key strategic opportunity for California's energy transition. Leveraging existing bio-resources allows for the production of low-carbon hydrogen using established RNG supply chains. [4](#ref-4)
 
 ## California's Hydrogen Hub (ARCHES)
 
@@ -10,8 +10,8 @@ The Alliance for Renewable Clean Hydrogen Energy Systems (ARCHES) is a public-pr
 
 RNG is integrated into the ARCHES strategy as a critical bridge for scaling clean hydrogen production:
 
-1.  **Feedstock Diversity**: ARCHES identifies hydrogen production from diverse feedstocks, including woody biomass and municipal waste—the primary sources for RNG. These are utilized to ensure a stable and carbon-neutral hydrogen supply for the hub's operations. [2](#ref-2)
-2.  **Policy Advocacy (45V Tax Credit)**: ARCHES has actively advocated for federal regulations under the 45V Clean Hydrogen Production Tax Credit that support California's unique renewable energy landscape, including its bio-resource sectors. In October 2024, ARCHES formally requested that the U.S. Treasury ensure regulations accommodate various clean hydrogen production pathways leveraging these resources. [3](#ref-3)
+1.  **Feedstock Diversity**: ARCHES identifies hydrogen production from diverse feedstocks, including [woody biomass and municipal waste](../industry_overview/feedstock_types.md)—the primary sources for RNG. These are utilized to ensure a stable and carbon-neutral hydrogen supply for the hub's operations. [2](#ref-2)
+2.  **Policy Advocacy (45V Tax Credit)**: ARCHES has actively advocated for federal regulations under the [45V Clean Hydrogen Production Tax Credit](../regulations/federal_tax_credits_ira.md) that support California's unique renewable energy landscape, including its bio-resource sectors. In October 2024, ARCHES formally requested that the U.S. Treasury ensure regulations accommodate various clean hydrogen production pathways leveraging these resources. [3](#ref-3)
 3.  **Technical Strategy**: The ARCHES Technical Volume outlines a roadmap for a sustained hydrogen marketplace by leveraging California's regional advantages in the agricultural and waste-to-energy sectors, both of which are major producers of RNG. [4](#ref-4)
 
 ### Citations
