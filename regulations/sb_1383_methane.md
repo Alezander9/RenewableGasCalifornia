@@ -19,6 +19,11 @@ The implementation of SB 1383 in California has introduced both significant chal
 *   **Value-Added Services:** Companies can differentiate themselves by offering robust consumer education programs—including workshops and social media outreach—as well as custom automated reporting systems for their clients [1](#ref-1), [2](#ref-2).
 *   **Community Partnerships:** Collaboration with local nonprofits for food recovery or community initiatives like donating compost for community gardens can enhance corporate social responsibility while meeting state mandates [1](#ref-1), [3](#ref-3).
 
+### Related Companies
+
+*   [CR&R Environmental Services](../companies/crr_environmental.md): A major waste hauler in Southern California that has integrated SB 1383 compliance into its municipal service contracts and RNG production.
+*   [Divert](../companies/divert.md): A company specializing in organics recycling and food waste management for major retailers, assisting with regulatory compliance.
+
 ### Citations
 
 <a id="ref-1"></a>
