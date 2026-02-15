@@ -1,6 +1,6 @@
 # Anaergia - Overview
 
-Anaergia is a provider of solutions for the generation of renewable natural gas (RNG) and other high-value resources from organic waste. In recent years, the company has faced significant financial challenges leading to a strategic pivot and the restructuring of its California asset portfolio.
+Anaergia is a provider of solutions for the generation of renewable natural gas (RNG) and other high-value resources from organic waste. In recent years, the company has faced significant financial challenges leading to a strategic pivot and the restructuring of its California asset portfolio [1](#ref-1).
 
 ## Financial Challenges and Strategic Pivot
 
@@ -13,7 +13,7 @@ In April 2024, the company stabilized its financial position by completing a C$4
 The company has significantly restructured its presence in California:
 
 ### Rialto Bioenergy Facility (RBF)
-The Rialto facility filed for Chapter 11 bankruptcy in 2023 and was sold to Sevana Bioenergy for $20 million in June 2024 [4](#ref-4). Although Anaergia no longer owns the asset, it secured a 10-year O&M contract in November 2024 to continue operating the facility for the new owners [5](#ref-5).
+The Rialto facility filed for Chapter 11 bankruptcy in 2023 and was sold to [Sevana Bioenergy](./sevana_bioenergy.md) for $20 million in June 2024 [4](#ref-4). Although Anaergia no longer owns the asset, it secured a 10-year O&M contract in November 2024 to continue operating the facility for the new owners [5](#ref-5).
 
 ### Victor Valley Facility
 Anaergia continues to own and operate the SoCal Biomethane plant at the Victor Valley Wastewater Reclamation Authority (VVWRA). In August 2025, a 20-year agreement was proposed for Southwest Gas to purchase RNG from this facility [6](#ref-6).
