@@ -1,7 +1,6 @@
 # Knowledge Base - Overview
 
-- [Anaergia](companies/anaergia.md)
-- [Sevana Bioenergy](companies/sevana_bioenergy.md)
+Welcome to the California Renewable Natural Gas (RNG) Industry Knowledge Base. This repository provides in-depth analysis of the regulations, companies, and market dynamics shaping the industry.
 
 ## Sections
 - [Regulations](regulations/OVERVIEW.md)

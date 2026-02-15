@@ -9,7 +9,7 @@ A key feature of the amendments was a "step-down" in the CI-reduction target for
 ## Market Impact and Credit Prices
 The implementation of these amendments shifted the market from a period of oversupply to a net deficit. In 3Q2025, the program recorded a net deficit of 1.71 million MT, representing the first quarterly net deficit since 1Q2021 [2](#ref-2). 
 
-This shift in market dynamics led to a recovery in credit prices. Following the release of 3Q2025 data, LCFS credit prices rose by approximately 10% in early February 2026 [2](#ref-2).
+This shift in market dynamics led to a recovery in [credit prices](../carbon_credit_markets/lcfs_credit_prices.md). Following the release of 3Q2025 data, LCFS credit prices rose by approximately 10% in early February 2026 [2](#ref-2).
 
 ## Impact on RNG Producers
 Renewable Natural Gas (RNG) continues to be a vital compliance tool under the amended LCFS program. In 3Q2025, RNG (along with Alternative Jet Fuel) was one of the only fuel categories to show an increase in credit generation compared to the previous quarter [2](#ref-2). 
