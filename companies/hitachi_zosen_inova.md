@@ -1,6 +1,6 @@
 # Hitachi Zosen Inova - Overview
 
-Hitachi Zosen Inova (now Kanadevia Inova) is a global leader in energy-from-waste (EfW) and renewable gas technology. One of its key projects in the United States is the Kompogas SLO facility.
+Hitachi Zosen Inova (now Kanadevia Inova) is an energy-from-waste (EfW) and renewable gas technology company. One of its projects in the United States is the Kompogas SLO facility [1](#ref-1).
 
 ## Projects
 
