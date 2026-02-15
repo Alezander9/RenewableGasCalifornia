@@ -9,6 +9,7 @@
 ## Companies
 * [Overview](companies/OVERVIEW.md)
 * [Anaergia](companies/anaergia.md)
+* [BioFuels Energy](companies/biofuels_energy.md)
 * [Hitachi Zosen Inova](companies/hitachi_zosen_inova.md)
 * [Sevana Bioenergy](companies/sevana_bioenergy.md)
 
