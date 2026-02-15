@@ -16,7 +16,7 @@ Key players in the California Renewable Natural Gas (RNG) ecosystem, including p
 - [Maas Energy Works](maas_energy_works.md)
 - [Montauk Renewables](montauk_renewables.md)
 - [OPAL Fuels](opal_fuels.md): Vertically integrated RNG producer and distributor with an extensive fueling station network.
-- [Sevana Bioenergy](sevana_bioenergy.md)
+- [Sevana Bioenergy](sevana_bioenergy.md): A developer and operator of large-scale RNG projects, recently expanding through the acquisition of the Rialto Bioenergy Facility [4](#ref-4).
 - [Vanguard Renewables](vanguard_renewables.md)
 
 ## Utilities
@@ -34,3 +34,6 @@ Key players in the California Renewable Natural Gas (RNG) ecosystem, including p
 
 <a id="ref-3"></a>
 [3] : https://www.socalgas.com/sustainability/renewable-natural-gas
+
+<a id="ref-4"></a>
+[4] : https://www.rngcoalition.com/news/2024/6/13/sevana-bioenergy-acquires-rialto-bioenergy-facility-bolstering-west-coast-rng-production

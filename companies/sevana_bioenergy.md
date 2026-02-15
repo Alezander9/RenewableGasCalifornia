@@ -1,8 +1,8 @@
 # Sevana Bioenergy - Overview
 
-Sevana Bioenergy develops and operates large-scale renewable natural gas (RNG) facilities across the United States, utilizing various organic feedstocks including dairy manure, swine manure, and food waste [5](#ref-5).
+Sevana Bioenergy, founded in 2017 and headquartered in Boise, Idaho, develops and operates large-scale renewable natural gas (RNG) facilities across North America [5](#ref-5) [7](#ref-7). The company is led by CEO Steve Compton [8](#ref-8).
 
-## Assets
+## Assets and Projects
 
 ### Rialto Bioenergy Solutions (California)
 In June 2024, Sevana Bioenergy acquired the Rialto Bioenergy Facility (now Rialto Bioenergy Solutions) for $20 million at auction following the bankruptcy of a subsidiary of [Anaergia](anaergia.md) [1](#ref-1) [2](#ref-2). It is recognized as North America’s largest organic waste-to-energy facility [3](#ref-3). 
@@ -11,10 +11,18 @@ The facility is designed to process 1,000 tons per day of food waste and municip
 
 ### Dairy and Swine RNG Projects
 Sevana operates several dairy manure-to-RNG facilities and has others under development or construction:
-*   **New Energy One (Idaho):** An operating dairy manure-to-RNG facility [5](#ref-5).
-*   **South Dakota Clusters:** Sevana operates three dairy manure-to-RNG clusters in South Dakota: Moody Biogas Cluster, Brookings Biogas Cluster, and Lakeside Biogas Cluster [5](#ref-5).
-*   **Prairie Valley Biogas (Kansas):** A swine manure-to-RNG facility currently under construction [5](#ref-5).
-*   **Western US Development:** A dairy manure project slated for completion in 2026 is currently under development [5](#ref-5).
+* **New Energy One (Idaho):** An operating dairy manure-to-RNG facility developed in partnership with Meridiam [5](#ref-5) [10](#ref-10).
+* **South Dakota Clusters:** Sevana operates three dairy manure-to-RNG clusters in South Dakota: Moody Biogas Cluster, Brookings Biogas Cluster, and Lakeside Biogas Cluster [5](#ref-5). These projects are developed through MBL Bioenergy, a joint venture with UGI Energy Services and [California Bioenergy (CalBio)](calbio.md) [9](#ref-9).
+* **Prairie Valley Biogas (Kansas):** A swine manure-to-RNG facility currently under construction [5](#ref-5).
+* **Western US Development:** A dairy manure project slated for completion in 2026 is currently under development [5](#ref-5).
+
+## Investment and Partnerships
+
+### Ontario Teachers’ Pension Plan (OTPP)
+In 2023, the Ontario Teachers’ Pension Plan acquired a majority stake in Sevana Bioenergy. OTPP committed $250 million in capital to finance the development of RNG projects across North America [7](#ref-7).
+
+### Regenerative Agriculture
+Sevana Bioenergy was featured in a Newsweek report on regenerative agriculture, highlighting its role in transforming agricultural byproducts into renewable energy [8](#ref-8).
 
 ### Citations
 
@@ -35,3 +43,15 @@ Sevana operates several dairy manure-to-RNG facilities and has others under deve
 
 <a id="ref-6"></a>
 [6] : https://www.businesswire.com/news/home/20241115239926/en/Anaergia-Awarded-Contract-to-Operate-and-Maintain-Rialto-Bioenergy-Solutions-Facility-in-California
+
+<a id="ref-7"></a>
+[7] : https://www.greenlanerenewables.com/investors/the-greenlane-digest/april-6th-issue-of-greenlane-digest
+
+<a id="ref-8"></a>
+[8] : https://d.newsweek.com/en/file/478397/regenerating-agriculture-coordinating-action-across-global-food-system.pdf
+
+<a id="ref-9"></a>
+[9] : https://www.rngcoalition.com/news/2022/5/16/ugi-commits-funding-for-largest-renewable-natural-gas-project-to-date
+
+<a id="ref-10"></a>
+[10] : https://www.rngcoalition.com/news/2020/7/23/meridiam-develops-first-us-biogas-to-rng-project
