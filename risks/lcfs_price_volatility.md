@@ -1,9 +1,9 @@
 # LCFS Price Volatility Risk in RNG Project Financing
 
-LCFS credit price volatility presents a significant risk for Renewable Natural Gas (RNG) projects, primarily due to the market-based nature of the credits and the absence of guaranteed price floors [1](#ref-1).
+LCFS credit price volatility presents a significant risk for [Renewable Natural Gas (RNG)](../industry_overview/OVERVIEW.md) projects, primarily due to the market-based nature of the credits and the absence of guaranteed price floors [1](#ref-1).
 
 ## Market Dynamics and Volatility
-The LCFS market is characterized by substantial price swings. For instance, in 2022, California LCFS credit prices ranged from a high of $154/MT to a low of $61/MT, averaging $98/MT [1](#ref-1). While some programs like the Canadian Clean Fuel Regulations (CFR) have established price caps (e.g., CAD 350/MT), they generally lack a hard price floor [1](#ref-1) [2](#ref-2). Regulators often rely on "policy levers" and periodic program amendments to manage supply and demand, which introduces regulatory lag and uncertainty [1](#ref-1).
+The LCFS market is characterized by substantial price swings. For instance, in 2022, [California LCFS](../carbon_credit_markets/lcfs_overview.md) credit prices ranged from a high of $154/MT to a low of $61/MT, averaging $98/MT [1](#ref-1). While some programs like the Canadian Clean Fuel Regulations (CFR) have established price caps (e.g., CAD 350/MT), they generally lack a hard price floor [1](#ref-1) [2](#ref-2). Regulators often rely on "policy levers" and periodic program amendments to manage supply and demand, which introduces [regulatory lag and uncertainty](regulatory_changes.md) [1](#ref-1).
 
 ## Impact on Project Financing
 Volatility creates several hurdles for traditional project financing structures:
@@ -13,7 +13,7 @@ Volatility creates several hurdles for traditional project financing structures:
 ## Risk Mitigation and Limitations
 - **Hedging Difficulties:** Forward contracts for environmental attributes are often unavailable for the long term. Most commodity hedges have maturities under 5 years, which does not align with the 15-20 year lifecycle of RNG assets [1](#ref-1).
 - **Discounted Offtakes:** Developers may secure fixed-price contracts by accepting "steeply discounted" offers from obligated parties who assume the price risk [1](#ref-1).
-- **Supply and Demand Imbalance:** RNG supply, particularly from dairy and swine digesters, is limited by feedstock availability. Conversely, demand is tied to the size of the Natural Gas Vehicle (NGV) fleet. Imbalances between supply and demand can further destabilize credit values [2](#ref-2).
+- **Supply and Demand Imbalance:** RNG supply, particularly from [dairy and swine digesters](../industry_overview/feedstock_types.md), is limited by [feedstock availability](feedstock_availability.md). Conversely, demand is tied to the size of the [Natural Gas Vehicle (NGV) fleet](../industry_overview/transportation_market.md). Imbalances between supply and demand can further destabilize credit values [2](#ref-2).
 
 ### Citations
 
