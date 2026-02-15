@@ -22,13 +22,13 @@ Archaea also manages agricultural digester projects in the Central Valley, inclu
 
 ## BP Strategy and RNG Production Targets
 
-BP's acquisition of Archaea Energy is a cornerstone of its transition from an International Oil Company (IOC) to an Integrated Energy Company (IEC), with bioenergy serving as one of BP’s five strategic transition growth engines [6](#ref-6).
+BP's acquisition of Archaea Energy is a cornerstone of its transition from an International Oil Company (IOC) to an Integrated Energy Company (IEC), with [bioenergy](../industry_overview/OVERVIEW.md) serving as one of BP’s five strategic transition growth engines [6](#ref-6).
 
 ### Strategic Pillars
 
 *   **Modular Design:** BP utilizes the "Archaea V1" standardized modular plant design to accelerate the conversion of landfill gas to RNG. This approach is intended to reduce construction timelines and costs compared to traditional custom-built plants [6](#ref-6)[7](#ref-7).
 *   **Integrated Value Chain:** Archaea’s production pipeline is integrated with BP’s global trading and shipping (T&S) organization to maximize value through global market access [6](#ref-6).
-*   **Distribution Network:** The acquisition of TravelCenters of America (TA) provides BP with a network of approximately 280 sites for RNG distribution, specifically targeting heavy-duty transport customers [7](#ref-7).
+*   **Distribution Network:** The acquisition of TravelCenters of America (TA) provides BP with a network of approximately 280 sites for RNG distribution, specifically targeting [heavy-duty transport](../industry_overview/transportation_market.md) customers [7](#ref-7).
 
 ### Production and Financial Targets
 
