@@ -3,7 +3,7 @@
 Pacific Gas and Electric Company (PG&E) is actively developing its Renewable Natural Gas (RNG) infrastructure and procurement strategy to align with California's decarbonization goals.
 
 ## Biomethane Strategy
-PG&E's biomethane strategy is primarily driven by California Senate Bill (SB) 1440 and CPUC Decision 22-02-025, which mandate specific biomethane procurement targets for non-Natural Gas Vehicle (NGV) bundled core customers [1](#ref-1).
+PG&E's biomethane strategy is primarily driven by [California Senate Bill (SB) 1440](../regulations/sb_1440_procurement.md) and CPUC Decision 22-02-025, which mandate specific biomethane procurement targets for non-Natural Gas Vehicle (NGV) bundled core customers [1](#ref-1).
 
 - **Procurement Targets:** The utility aims to procure 7.452 Bcf annually for the short-term (2025-2029) and 27.744 Bcf annually for the medium-term (2030-2040) [1](#ref-1).
 - **Feedstock Diversification:** PG&E's strategy focuses on a diverse portfolio that includes anaerobic digestion, pyrolysis, gasification, and methanation of various biomass feedstocks [2](#ref-2).
@@ -16,7 +16,7 @@ PG&E is exploring the conversion of woody biomass into RNG through research, dev
 - **R&D Roadmap:** The utility's R&D plan includes evaluating woody biomass conversion (Field Demo 2022-2025) and woody biomass fermentation (Paper Study 2022-2023) [2](#ref-2).
 
 ## RNG Interconnection Projects
-PG&E facilitates the injection of RNG into its pipeline system through a standardized interconnection process for third-party developers.
+PG&E facilitates the injection of RNG into its pipeline system through a [standardized interconnection process](../regulations/pipeline_interconnection_rules.md) for third-party developers.
 
 - **Interconnection Timeline:** The process typically takes between 18 and 30 months and involves engineering, gas quality testing, and the installation of interconnection skids [4](#ref-4).
 - **Standardization Efforts:** PG&E is developing standardized interconnection skids and gas quality measurement devices to reduce costs and complexity for RNG project developers [2](#ref-2).
