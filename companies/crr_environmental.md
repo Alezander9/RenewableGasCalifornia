@@ -9,7 +9,7 @@ CR&R holds waste collection and processing contracts with over 30 municipalities
 ### Orange County
 Contracted cities include: Anaheim, Brea, Buena Park, Cypress, Dana Point, Fountain Valley, Fullerton, Garden Grove, Huntington Beach, Irvine, La Habra, La Palma, Laguna Beach, Laguna Hills, Laguna Niguel, Laguna Woods, Lake Forest, Mission Viejo, Newport Beach, Orange, Placentia, Rancho Santa Margarita, San Clemente, San Juan Capistrano, Santa Ana, Stanton, Tustin, and Yorba Linda. [4](#ref-4)
 
-- **Laguna Niguel**: In 2023, CR&R was established as a Direct Service Provider of RNG for the city to meet SB 1383 requirements. The collection vehicles serving Laguna Niguel are powered by RNG produced at CR&R's Perris facility. [2](#ref-2)
+- **Laguna Niguel**: In 2023, CR&R was established as a Direct Service Provider of RNG for the city to meet [SB 1383](../regulations/sb_1383_methane.md) requirements. The collection vehicles serving Laguna Niguel are powered by RNG produced at CR&R's Perris facility. [2](#ref-2)
 
 ### Riverside County
 Contracted cities include: Perris, Temecula, San Jacinto, Canyon Lake, Lake Elsinore, Hemet, Calimesa, and Wildomar. [4](#ref-4)
@@ -24,7 +24,7 @@ CR&R operates a state-of-the-art Anaerobic Digestion (AD) facility located at 17
 
 ### Technology and Infrastructure
 - **Technology**: The plant utilizes Eisenmann high-solids anaerobic digestion technology (thermophilic operation) and a Greenlane Biogas water-wash system for gas upgrading. [3](#ref-3) [4](#ref-4)
-- **Pipeline Interconnect**: The facility includes a 1.4-mile pipeline interconnect to the Southern California Gas (SoCalGas) distribution system, allowing surplus RNG to be injected into the utility grid. [1](#ref-1) [3](#ref-3)
+- **Pipeline Interconnect**: The facility includes a 1.4-mile pipeline interconnect to the [Southern California Gas (SoCalGas)](socalgas.md) distribution system, allowing surplus RNG to be injected into the utility grid. [1](#ref-1) [3](#ref-3)
 
 ### Capacity and Production
 - **Phased Development**: The facility is designed for four phases. Phase I is permitted for 83,600 tons of organic waste per year. At full build-out, total capacity is expected to exceed 320,000 tons per year. [1](#ref-1) [3](#ref-3)
