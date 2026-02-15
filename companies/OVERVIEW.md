@@ -1,5 +1,7 @@
 # Companies - Overview
 
+This section provides details on key companies operating in the renewable natural gas and food waste diversion sectors.
+
 * [Ameresco](ameresco.md)
 * [Anaergia](anaergia.md)
 * [Archaea Energy](archaea_energy.md)
