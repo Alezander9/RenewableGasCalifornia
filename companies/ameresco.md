@@ -1,6 +1,18 @@
 # Ameresco - Overview
 
-Ameresco has developed multiple landfill gas-to-energy (LFGTE) and renewable natural gas (RNG) projects in California. [1](#ref-1)
+Ameresco (NYSE: AMRC) is a clean technology integrator and renewable energy asset developer, owner, and operator [9](#ref-9).
+
+## Financial Performance
+
+### Renewable Natural Gas Revenue
+Ameresco reports revenue from renewable natural gas (RNG) within its **Renewable Fuels** segment. For the third quarter of 2025 (three months ended September 30), the company generated $37.7 million in revenue from this segment. For the first nine months of 2025, RNG-related revenue totaled $118.7 million [9](#ref-9).
+
+### Project Backlog
+As of September 30, 2025, Ameresco's project backlog reached significant levels:
+*   **Total Project Backlog**: $5.14 billion [9](#ref-9)
+*   **12-Month Project Backlog**: $1.25 billion [9](#ref-9)
+
+The 12-month backlog represents the estimated value of work under signed contracts and awarded projects that is expected to be recognized as revenue over the following twelve months [9](#ref-9).
 
 ## California Landfill Gas-to-Energy Projects
 
@@ -76,6 +88,9 @@ Ameresco has developed multiple landfill gas-to-energy (LFGTE) and renewable nat
 
 <a id="ref-8"></a>
 [8] : https://www.ameresco.com/3000-homes-powered-energy-santa-cruz-landfill/
+
+<a id="ref-9"></a>
+[9] : https://cdn.yahoofinance.com/prod/sec-filings/0001488139/000162828025048545/amrc-20250930.htm
 
 ---
 Back to [Companies Overview](OVERVIEW.md) | Back to [Main Overview](../OVERVIEW.md)
