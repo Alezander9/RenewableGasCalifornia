@@ -1,10 +1,36 @@
-# LCFS Program - Regulation
+# Low Carbon Fuel Standard (LCFS) Program
+
+The California Low Carbon Fuel Standard (LCFS) is a regulatory program designed to reduce the carbon intensity (CI) of the transportation fuel pool in California. It encourages the use of cleaner, renewable fuels by setting declining CI benchmarks and allowing for the generation and trading of credits. [3](#ref-3)
+
+## History of the LCFS
+
+The LCFS was originally proposed to reduce the carbon intensity of California's transportation fuel pool and has undergone several major updates since its inception:
+
+*   **2009:** The original LCFS regulation was approved by the Office of Administrative Law (OAL) on April 15, 2010. Implementation officially began on January 1, 2011. [3](#ref-3)
+*   **2011:** Amendments were approved by OAL on November 26, 2012, and became effective immediately. [3](#ref-3)
+*   **2015:** The regulation was re-adopted and approved by OAL on November 16, 2015, becoming effective on January 1, 2016. [3](#ref-3)
+*   **2018:** Major amendments were approved by OAL on January 4, 2019. [3](#ref-3)
+*   **2019:** Further amendments were approved by OAL on May 27, 2020, and became effective on July 1, 2020. [3](#ref-3)
 
 ## 2024 Amendments and 2025 Implementation
 The California Air Resources Board (CARB) approved significant amendments to the Low Carbon Fuel Standard (LCFS) on November 8, 2024, which primarily took effect on July 1, 2025 [1](#ref-1). These amendments were introduced to accelerate carbon intensity (CI) reductions and address the substantial surplus of credits that had accumulated in the market [1](#ref-1).
 
+### Implementation Timeline
+*   **November 8, 2024:** CARB Board approved the proposed amendments. [4](#ref-4)
+*   **February 18, 2025:** OAL initially issued a Notice of Disapproval. [4](#ref-4)
+*   **May 16, 2025:** CARB resubmitted the corrected rulemaking package. [4](#ref-4)
+*   **June 27, 2025:** OAL approved the final rulemaking. [4](#ref-4)
+*   **July 1, 2025:** The amendments officially became effective. [4](#ref-4)
+
 ### CI Target Adjustments
 A key feature of the amendments was a "step-down" in the CI-reduction target for the California fuel pool. On July 1, 2025, the target increased from 13.75% to 22.75% [1](#ref-1). This tightening of standards was designed to immediately increase deficit generation and reduce the credit bank, which totaled 43.0 million metric tons (MT) at the end of 2Q2025 [1](#ref-1).
+
+### Key Regulatory Changes
+*   **Increased CI Reduction Targets:** The program now requires a 30% reduction in fuel CI by 2030 and a 90% reduction by 2045 from a 2010 baseline. [5](#ref-5)
+*   **Near-term Step-down:** A one-time 9% reduction in the CI benchmark was implemented in 2025 to increase immediate program stringency. [5](#ref-5)
+*   **Automatic Acceleration Mechanism (AAM):** This mechanism automatically increases the stringency of CI benchmarks if specific regulatory conditions (such as credit surplus thresholds) are met. [5](#ref-5)
+*   **Expanded Crediting:** New crediting opportunities were introduced for Zero Emission Vehicle (ZEV) infrastructure, specifically focusing on medium- and heavy-duty vehicles. [5](#ref-5)
+*   **Sustainability Guardrails:** The amendments strengthened requirements for crop-based fuels to mitigate risks of deforestation and other adverse environmental impacts. [5](#ref-5)
 
 ## Market Impact and Credit Prices
 The implementation of these amendments shifted the market from a period of oversupply to a net deficit. In 3Q2025, the program recorded a net deficit of 1.71 million MT, representing the first quarterly net deficit since 1Q2021 [2](#ref-2). 
@@ -23,3 +49,12 @@ The increasingly aggressive annual benchmarks through 2040 maintain strong regul
 
 <a id="ref-2"></a>
 [2] : https://stillwaterpublications.com/flash-report-3q2025-lcfs-data-show-1-71-million-mt-net-deficit/
+
+<a id="ref-3"></a>
+[3] : https://ww2.arb.ca.gov/our-work/programs/low-carbon-fuel-standard/lcfs-regulation
+
+<a id="ref-4"></a>
+[4] : https://ww2.arb.ca.gov/rulemaking/2024/lcfs2024
+
+<a id="ref-5"></a>
+[5] : https://ww2.arb.ca.gov/sites/default/files/barcu/regact/2024/lcfs2024/lcfs_uidfinal.pdf

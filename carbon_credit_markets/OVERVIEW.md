@@ -10,3 +10,4 @@ Analysis of the various regulatory and voluntary credit markets that support the
 - [Cap and Trade](cap_and_trade.md): California's broader economy-wide emissions trading system.
 - [Book and Claim Accounting](book_and_claim_accounting.md): Methodologies for tracking and trading environmental attributes of RNG injected into pipelines.
 - [Verification and Pathways](verification_and_pathways.md): Certification processes for carbon intensity (CI) scores and credit generation.
+- [Voluntary Carbon Markets](../opportunities/voluntary_carbon_markets.md): Corporate procurement and offset markets as an alternative to compliance programs.
