@@ -4,11 +4,11 @@ BioFuels Energy, LLC is a renewable energy company based in California that spec
 
 ## Encinitas Presence
 
-While BioFuels Energy, LLC is headquartered at 2210 Encinitas Blvd, Suite P, Encinitas, CA 92024, the company does not have any operational renewable energy projects (such as fuel cells or purification plants) located within the city limits of Encinitas [1](#ref-1)[4](#ref-4). Local permit searches and company records indicate that the Encinitas location serves exclusively as the administrative and corporate headquarters [5](#ref-5).
+While BioFuels Energy, LLC is headquartered at 2210 Encinitas Blvd, Suite P, Encinitas, CA 92024, the company does not have any operational renewable energy projects (such as fuel cells or purification plants) located within the city limits of Encinitas [1](#ref-1) [4](#ref-4). Local permit searches and company records indicate that the Encinitas location serves exclusively as the administrative and corporate headquarters [5](#ref-5).
 
 ## Projects in California
 
-BioFuels Energy has developed and operates several significant projects across California, primarily in the San Diego and Long Beach areas.
+BioFuels Energy has developed and operates several significant projects across California, primarily in the San Diego and Long Beach areas [2](#ref-2) [3](#ref-3).
 
 ### San Diego
 *   **Point Loma Wastewater Treatment Plant:** A biomethane gas purification plant that produces pipeline-quality renewable natural gas (RNG) from digester gas [2](#ref-2).
