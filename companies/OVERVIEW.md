@@ -13,7 +13,7 @@ This section provides details on key companies operating in the renewable natura
 * [Hitachi Zosen Inova](hitachi_zosen_inova.md)
 * [Maas Energy Works](maas_energy_works.md)
 * [Montauk Renewables](montauk_renewables.md)
-* [OPAL Fuels](opal_fuels.md)
+* [OPAL Fuels](opal_fuels.md) - Vertically integrated RNG producer and distributor with an extensive fueling station network.
 * [PG&E](pge.md)
 * [Sevana Bioenergy](sevana_bioenergy.md)
 * [SoCalGas](socalgas.md)
