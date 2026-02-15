@@ -1,24 +1,12 @@
 # Knowledge Base - Overview
 
-## Industry Overview
-* [Overview](industry_overview/OVERVIEW.md)
+This knowledge base contains information about the RNG and bioenergy industry in California, including regulations, market opportunities, risks, and key companies.
 
-## Regulations
-* [Overview](regulations/OVERVIEW.md)
+## Sections
 
-## Companies
-* [Overview](companies/OVERVIEW.md)
-* [Ameresco](companies/ameresco.md)
-* [Anaergia](companies/anaergia.md)
-* [Hitachi Zosen Inova](companies/hitachi_zosen_inova.md)
-* [Sevana Bioenergy](companies/sevana_bioenergy.md)
-
-## Carbon Credit Markets
-* [Overview](carbon_credit_markets/OVERVIEW.md)
-
-## Opportunities
-* [Overview](opportunities/OVERVIEW.md)
-
-## Risks
-* [Overview](risks/OVERVIEW.md)
-* [Market Saturation (Transport) - Risk: Heavy-Duty Electric Vehicles](risks/market_saturation.md)
+*   [Industry Overview](./industry_overview/OVERVIEW.md)
+*   [Regulations](./regulations/OVERVIEW.md)
+*   [Companies](./companies/OVERVIEW.md)
+*   [Carbon Credit Markets](./carbon_credit_markets/OVERVIEW.md)
+*   [Opportunities](./opportunities/OVERVIEW.md)
+*   [Risks](./risks/OVERVIEW.md)
