@@ -10,6 +10,7 @@
 * [Overview](companies/OVERVIEW.md)
 * [Anaergia](companies/anaergia.md)
 * [Hitachi Zosen Inova](companies/hitachi_zosen_inova.md)
+* [PG&E](companies/pge.md)
 * [Sevana Bioenergy](companies/sevana_bioenergy.md)
 
 ## Carbon Credit Markets
