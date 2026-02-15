@@ -35,9 +35,6 @@ Recent amendments were developed to align the LCFS with the 2022 Scoping Plan Up
 <a id="ref-1"></a>
 [1] : https://ww2.arb.ca.gov/our-work/programs/low-carbon-fuel-standard/lcfs-regulation
 
-<a id="ref-2"></a>
-[2] : https://ww2.arb.ca.gov/our-work/programs/low-carbon-fuel-standard/about
-
 <a id="ref-3"></a>
 [3] : https://ww2.arb.ca.gov/rulemaking/2024/lcfs2024
 
