@@ -15,7 +15,7 @@ This section provides details on key companies operating in the organic waste an
 * [Montauk Renewables](montauk_renewables.md)
 * [OPAL Fuels](opal_fuels.md)
 * [PG&E](pge.md)
-* [Sevana Bioenergy](sevana_bioenergy.md): A developer and operator of large-scale RNG projects, recently expanding through the acquisition of the Rialto Bioenergy Facility.
+* [Sevana Bioenergy](sevana_bioenergy.md): A developer and operator of large-scale RNG projects, recently expanding through the acquisition of the Rialto Bioenergy Facility [2](#ref-2).
 * [SoCalGas](socalgas.md)
 * [Vanguard Renewables](vanguard_renewables.md)
 
@@ -23,3 +23,6 @@ This section provides details on key companies operating in the organic waste an
 
 <a id="ref-1"></a>
 [1] : https://www.wastedive.com/news/anaergia-rialto-operations-contract-q3-2024-report/733194/
+
+<a id="ref-2"></a>
+[2] : https://www.rngcoalition.com/news/2024/6/13/sevana-bioenergy-acquires-rialto-bioenergy-facility-bolstering-west-coast-rng-production

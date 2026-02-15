@@ -21,7 +21,7 @@ In 2023, the Ontario Teachers’ Pension Plan acquired a majority stake in Sevan
 ### Regenerative Agriculture
 Sevana Bioenergy was featured in a Newsweek report on regenerative agriculture, highlighting its role in transforming agricultural byproducts into renewable energy [8](#ref-8).
 
-## Citations
+### Citations
 
 <a id="ref-1"></a>
 [1] : https://www.wastedive.com/news/sevana-rialto-bioenergy-sale-anaergia-bankruptcy/718871/

@@ -18,7 +18,7 @@ CalBio and Chevron U.S.A. Inc. have established a joint investment called **CalB
 CalBio is a major developer of dairy methane projects in California and beyond:
 * **Scale:** As of December 2024, CalBio completed its 78th digester in California [3](#ref-3).
 * **Regional Clusters:** Key operations include the Kern Cluster and South Tulare Cluster [1](#ref-1).
-* **Expansion and Partnerships:** CalBio has expanded into South Dakota through a partnership with UGI [3](#ref-3). It also maintains a strategic partnership with Brookfield Renewable for RNG project development [3](#ref-3).
+* **Expansion and Partnerships:** CalBio has expanded into South Dakota through a partnership with UGI and [Sevana Bioenergy](sevana_bioenergy.md) in the MBL Bioenergy joint venture [3](#ref-3). It also maintains a strategic partnership with Brookfield Renewable for RNG project development [3](#ref-3).
 
 ### Citations
 
