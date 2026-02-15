@@ -1,7 +1,18 @@
 # Divert - Overview
 
+Divert is a technology provider focused on reducing food waste and transforming it into renewable energy. The company operates a network of facilities across the United States, with a significant presence in California.
+
+## Technology
+
+Divert utilizes a proprietary multi-step process to convert food waste into Renewable Natural Gas (RNG):
+
+- **Depackaging:** Their technology allows for the processing of loose, packaged, and contaminated materials together, enabling the handling of retail and industrial food waste streams [9](#ref-9).
+- **Anaerobic Digestion:** Organic material is processed in anaerobic digesters where microorganisms break down waste in the absence of oxygen to produce biogas [10](#ref-10).
+- **RNG Production:** The resulting biogas is upgraded to pipeline-quality RNG, which is carbon-negative and can be injected into existing utility systems, such as [PG&E](pge.md) in California [11](#ref-11).
+- **Byproducts:** The process produces a nutrient-rich soil amendment used as fertilizer [12](#ref-12).
+
 ## Retail Partnerships
-Divert maintains partnerships with several major grocery retailers to manage food waste and [organics recycling](../regulations/sb_1383_methane.md).
+Divert maintains partnerships with several major grocery retailers to manage food waste and [organics recycling](../regulations/sb_1383_methane.md). In California, Divert serves over 1,900 locations [10](#ref-10).
 
 ### Kroger
 Divert has a long-standing partnership with Kroger dating back to 2010, which began with a facility in Los Angeles [1](#ref-1). Key expansions include:
@@ -10,7 +21,7 @@ Divert has a long-standing partnership with Kroger dating back to 2010, which be
 *   **Subsidiaries:** Inclusion of regional chains such as Harris Teeter [4](#ref-4).
 
 ### Other Major Retailers
-Additional retail partners include Albertsons, CVS, Target, Ahold Delhaize, and Raley's [4](#ref-4).
+Additional retail partners include Albertsons, CVS, Target, Ahold Delhaize, Safeway, Raley's, and General Produce [4](#ref-4), [10](#ref-10).
 
 ## Expansion Plans
 Divert is executing a large-scale infrastructure expansion to address food waste across North America.
@@ -21,7 +32,7 @@ The company aims to build and operate 30 Integrated Diversion & Energy Facilitie
 *   Process approximately 5% of all wasted food in the U.S., totaling roughly 6 billion pounds annually [5](#ref-5).
 
 ### Key Facilities and Milestones
-*   **Turlock, CA:** A full-scale facility became operational in early 2024 [6](#ref-6).
+*   **Turlock, CA:** Divert operates an **Integrated Diversion & Energy Facility** in Turlock, which became fully operational in early 2024 [6](#ref-6), [11](#ref-11). It is the first of its kind in California, processing approximately 100,000 tons of food waste annually and producing 225,000 MMBtu of RNG [11](#ref-11).
 *   **Lexington, NC & Longview, WA:** New facilities are under development and expected to be operational by 2026 [7](#ref-7).
 *   **Jacksonville, FL:** A site has been identified for a future food-to-energy plant [8](#ref-8).
 
@@ -50,3 +61,15 @@ The company aims to build and operate 30 Integrated Diversion & Energy Facilitie
 
 <a id="ref-8"></a>
 [8] : https://www.jaxdailyrecord.com/news/2024/feb/28/fourth-north-jacksonville-site-identified-for-divert-inc-food-to-energy-plant
+
+<a id="ref-9"></a>
+[9] : https://divertinc.com/solutions-for-industrial-customers/
+
+<a id="ref-10"></a>
+[10] : https://divertinc.com/divert-and-general-produce-announce-partnership/
+
+<a id="ref-11"></a>
+[11] : https://divertinc.com/divert-celebrates-milestone-with-turlock-ca-facility-opening/
+
+<a id="ref-12"></a>
+[12] : https://divertinc.com/our-impact/
