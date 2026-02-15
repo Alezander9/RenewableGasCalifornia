@@ -15,7 +15,7 @@ This section provides details on key companies operating in the organic waste an
 * [Montauk Renewables](montauk_renewables.md)
 * [OPAL Fuels](opal_fuels.md)
 * [PG&E](pge.md)
-* [Sevana Bioenergy](sevana_bioenergy.md)
+* [Sevana Bioenergy](sevana_bioenergy.md): A developer and operator of large-scale RNG projects, recently expanding through the acquisition of the Rialto Bioenergy Facility.
 * [SoCalGas](socalgas.md)
 * [Vanguard Renewables](vanguard_renewables.md)
 
