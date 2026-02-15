@@ -1,10 +1,10 @@
 # Companies - Overview
 
-This section provides details on key companies operating in the organic waste and renewable natural gas (RNG) sectors.
+The following companies are key players in the California RNG and bioenergy market:
 
 * [Ameresco](ameresco.md)
 * [Anaergia](anaergia.md): A provider of organic waste-to-energy solutions that has recently shifted to a capital-light business model focusing on EPC and O&M services [1](#ref-1).
-* [Archaea Energy](archaea_energy.md)
+* [Archaea Energy](archaea_energy.md): A BP-owned leader in landfill gas-to-RNG projects.
 * [BioFuels Energy](biofuels_energy.md): A California-based developer of biomethane purification plants and fuel cell energy projects [2](#ref-2).
 * [California Bioenergy (CalBio)](calbio.md)
 * [Clean Energy Fuels](clean_energy_fuels.md)
