@@ -17,7 +17,7 @@ Key players in the California Renewable Natural Gas (RNG) ecosystem, including p
 - [Montauk Renewables](montauk_renewables.md)
 - [OPAL Fuels](opal_fuels.md): A vertically integrated RNG producer and distributor with 9.1 million MMBtu of annual design capacity across 12 operating projects as of late 2025 [7](#ref-7).
 - [Sevana Bioenergy](sevana_bioenergy.md): A developer and operator of large-scale RNG projects, recently expanding through the acquisition of the Rialto Bioenergy Facility [4](#ref-4).
-- [Vanguard Renewables](vanguard_renewables.md): A BlackRock portfolio company expanding farm-based RNG projects from "coast to coast," with a strategic focus on the California LCFS market [5](#ref-5).
+- [Vanguard Renewables](vanguard_renewables.md): A BlackRock portfolio company expanding farm-based RNG projects from "coast to coast," and founder of the Farm Powered Strategic Alliance [5](#ref-5)[8](#ref-8).
 
 ## Utilities
 
@@ -46,3 +46,6 @@ Key players in the California Renewable Natural Gas (RNG) ecosystem, including p
 
 <a id="ref-7"></a>
 [7] : https://finance.yahoo.com/news/opal-fuels-reports-third-quarter-031000040.html
+
+<a id="ref-8"></a>
+[8] : https://www.vanguardrenewables.com/farm-powered-strategic-alliance
