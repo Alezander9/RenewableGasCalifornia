@@ -13,7 +13,7 @@ This section provides details on key companies operating in the organic waste an
 * [Hitachi Zosen Inova](hitachi_zosen_inova.md)
 * [Maas Energy Works](maas_energy_works.md)
 * [Montauk Renewables](montauk_renewables.md)
-* [OPAL Fuels](opal_fuels.md)
+* [OPAL Fuels](opal_fuels.md): A vertically integrated RNG producer and distributor with 9.1 million MMBtu of annual design capacity across 12 operating projects as of late 2025 [2](#ref-2).
 * [PG&E](pge.md)
 * [Sevana Bioenergy](sevana_bioenergy.md)
 * [SoCalGas](socalgas.md)
@@ -23,3 +23,6 @@ This section provides details on key companies operating in the organic waste an
 
 <a id="ref-1"></a>
 [1] : https://www.wastedive.com/news/anaergia-rialto-operations-contract-q3-2024-report/733194/
+
+<a id="ref-2"></a>
+[2] : https://finance.yahoo.com/news/opal-fuels-reports-third-quarter-031000040.html
