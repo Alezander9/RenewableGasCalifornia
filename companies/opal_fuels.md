@@ -43,21 +43,15 @@ By controlling both production and distribution, OPAL Fuels ensures a reliable R
 
 <a id="ref-1"></a>
 [1] : https://opalfuels.com/
-
 <a id="ref-2"></a>
 [2] : https://opalfuels.com/renewable-natural-gas/
-
 <a id="ref-3"></a>
 [3] : https://investors.opalfuels.com/news-releases/news-release-details/opal-fuels-reports-third-quarter-2025-results
-
 <a id="ref-4"></a>
 [4] : https://opalfuels.com/projects/
-
 <a id="ref-5"></a>
 [5] : https://opalfuels.com/for-fleet-operators/
-
 <a id="ref-6"></a>
 [6] : https://finance.yahoo.com/news/opal-fuels-reports-third-quarter-031000040.html
-
 <a id="ref-7"></a>
 [7] : https://finance.yahoo.com/quote/OPAL/financials/
