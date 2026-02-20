@@ -52,16 +52,42 @@ The 2024 LCFS amendments create a regulatory moat for assets that break ground b
 ### What this question is really about
 In any regulated market, the highest-alpha insight is often the delta between what the law *requires* and what has *actually happened*. A human analyst might read the regulation and know the target number. But finding out that the target is almost entirely unmet — that the mandated buyer has signed one contract with zero actual deliveries — requires digging through obscure compliance filings that most people don't even know exist. This is the exact type of needle-in-a-haystack extraction that a research agent should excel at.
 
-### The insight the agent surfaced
-California law (SB 1440) **legally requires** the state's largest gas utilities to purchase 17.6 billion cubic feet of renewable gas per year by 2025, scaling to 72.8 Bcf by 2030. These aren't aspirational targets — they're CPUC-mandated procurement obligations with allocated percentages per utility.
+### Demo: Q&A as a PE firm would experience it
 
-Here's what the agent found when it cross-referenced the mandates against actual compliance data buried in regulatory filings:
+> **PE firm asks:** "How wide is the gap between mandated utility RNG purchases under SB 1440 and actual procurement? Are these utilities actually buying, or is the mandate just on paper?"
 
-- **SoCalGas** (responsible for 49.26% of the mandate) had executed **one contract** as of the 2024 reporting period — and reported **zero actual gas flows** from it. (Source: Joint Biomethane Annual Combined Report, CPUC filing `565498849.PDF`)
-- **PG&E** (responsible for 42.34%, or 7.452 Bcf/year) had an RNG solicitation portal that still read **"Coming soon"** as of early 2026.
-- The state's interconnection incentive program had approved 17 projects, but **zero had received payments** by year-end 2024.
+**Knowledgebase answer:**
 
-That's a ~17.6 Bcf/year mandated demand with near-zero fulfillment — a massive supply-demand gap backed by regulatory force. For an investor, this is the difference between "there might be demand for RNG" and "there is a legally mandated, multi-billion-cubic-foot buyer that has barely started purchasing."
+The gap is enormous — nearly the entire mandate is unfulfilled.
+
+California's SB 1440 requires the state's four largest gas utilities to collectively purchase **17.6 billion cubic feet (Bcf) of biomethane per year by 2025**, ramping to **72.8 Bcf by 2030**. These are binding procurement obligations set by the California Public Utilities Commission (CPUC), allocated by utility based on their emissions footprint [1][2]:
+
+| Utility | Share of Mandate | Short-Term Target (2025) | Medium-Term Target (2030) |
+|:---|:---:|:---:|:---:|
+| SoCalGas | 49.26% | ~8.7 Bcf/yr | ~35.9 Bcf/yr |
+| PG&E | 42.34% | 7.452 Bcf/yr | 27.745 Bcf/yr |
+| SDG&E | 6.77% | ~1.2 Bcf/yr | ~4.9 Bcf/yr |
+| Southwest Gas | 1.63% | ~0.3 Bcf/yr | ~1.2 Bcf/yr |
+
+Against these targets, actual procurement is essentially zero:
+
+- **SoCalGas** — the single largest obligated buyer — had executed **one biomethane contract** as of the 2024 reporting period and reported **zero actual gas flows** from it [3][5]. Its first competitive solicitation (RFO) was only issued in May 2025, with contract execution targeted for December 2025 [4].
+- **PG&E** — the second-largest buyer — had an RNG procurement portal that still listed future solicitations as **"Coming soon"** as of early 2026 [6][7].
+- The state's Biomethane Monetary Incentive (BMI) program, designed to subsidize pipeline interconnection for RNG producers, has approved over 17 projects — but **zero projects had received incentive payments** by end of 2024 [3][8].
+
+In short: the law says utilities must buy ~17.6 Bcf/year today, and they've delivered approximately none of it. The 2030 target (72.8 Bcf) is 4x larger. This creates a massive, legally-backed demand signal for any RNG producer that can deliver pipeline-quality gas in California — and it means the solicitation wave is just beginning, not winding down.
+
+*Sources:*
+- [1] [CPUC Sets Biomethane Targets](https://www.cpuc.ca.gov/news-and-updates/all-news/cpuc-sets-biomethane-targets-for-utilities)
+- [2] [CPUC Decision D.22-02-025 (PDF)](https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M453/K954/453954308.PDF)
+- [3] [Joint Biomethane Annual Combined Report (CPUC Filing)](https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M565/K498/565498849.PDF)
+- [4] [SoCalGas SB 1440 Solicitation](https://www.socalgas.com/sustainability/renewable-gas/rng-procurement/sb1440-solicitation)
+- [5] [SoCalGas RNG Procurement Overview](https://www.socalgas.com/sustainability/renewable-gas/rng-procurement)
+- [6] [PG&E Renewable Gas Procurement Plan (CPUC Filing)](https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M500/K435/500435651.PDF)
+- [7] [PG&E RNG Solicitation Portal](https://www.pge.com/en/about/doing-business-with-pge/core-gas-supply.html#rng)
+- [8] [SoCalGas Rate-Basing Proposal / BMI Program (CPUC Filing)](https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M585/K813/585813710.PDF)
+
+---
 
 ### Why this matters to a VC evaluating the agent
 
